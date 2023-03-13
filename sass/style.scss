@@ -37,6 +37,7 @@ div.Intro {
     width: 970px;
     height: 531.9px;
     left: 335px;
+    right: 21px;
     top: 0px;
     background: #FFFFFF;
 
@@ -51,18 +52,19 @@ div.Intro {
     }
 
     button {
-        img{
+        img {
             position: absolute;
             left: 108.67px;
             right: 16.67%;
-            top:19.81px;
+            top: 19.81px;
             bottom: 17.59%;
             width: 10.67px;
             height: 10.37px;
             background: #2B2B2B;
         }
+
         span {
-            white-space:nowrap;
+            white-space: nowrap;
             position: absolute;
             width: 65px;
             height: 29px;
@@ -107,4 +109,117 @@ div.Intro {
         }
     }
 
+}
+
+
+
+
+
+
+
+
+div.myservices {
+    position: absolute;
+    width: 970px;
+    height: 726px;
+    left: 335px;
+    top: 531.9pxpx;
+    background: #E5E5E5;
+
+    div.sound {
+        position: absolute;
+        width: 310px;
+        height: 225px;
+        left: 660px;
+        top: 256px;
+        background: #FFFFFF;
+
+        img {
+            position: absolute;
+            width: 74px;
+            height: 74px;
+            left: 118px;
+            top: 25px;
+        }
+        span.SoundDesign{
+            position: absolute;
+            width: 120px;
+            height: 22px;
+            left: 102px;
+            top: 122px;
+            
+            /* H4 - 18px */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            
+            /* or 22px */
+            text-transform: capitalize;
+            
+            /* Black */
+            color: #2B2B2B;
+         
+        }
+        span.TextSound{
+
+            position: absolute;
+            width: 175px;
+            height: 24px;
+            left: 74px;
+            top: 159px;
+            
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* identical to box height, or 160% */
+            text-align: center;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+            
+            /* Paragraph Font */
+            color: #767676;
+            
+        }
+    }
+/* Voice Over, Beat Making */
+
+
+    
+    
+    span.service {
+        position: absolute;
+        width: 193px;
+        height: 40px;
+        left: 398px;
+        top: 66px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 123.6%;
+        text-transform: capitalize;
+        color: #2B2B2B;
+    }
+
+    span.servicetext {
+        position: absolute;
+        width: 438px;
+        height: 68px;
+        left: 266px;
+        top: 138px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: center;
+        text-transform: capitalize;
+        font-feature-settings: 'calt' off, 'kern' off;
+        color: #767676;
+    }
 }
