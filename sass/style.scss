@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background: #E5E5E5;
     position: relative;
     width: 1326px;
     height: 3099px;
@@ -51,18 +51,19 @@ div.Intro {
     }
 
     button {
-        img{
+        img {
             position: absolute;
             left: 108.67px;
             right: 16.67%;
-            top:19.81px;
+            top: 19.81px;
             bottom: 17.59%;
             width: 10.67px;
             height: 10.37px;
             background: #2B2B2B;
         }
+
         span {
-            white-space:nowrap;
+            white-space: nowrap;
             position: absolute;
             width: 65px;
             height: 29px;
@@ -107,4 +108,64 @@ div.Intro {
         }
     }
 
+}
+
+
+div.sidebar {
+    position: absolute;
+    width: 305px;
+    height: 1315px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+
+    section {
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 198px;
+        top: 166px;
+        border-radius: 50%;
+        background: #7EB942;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    }
+    p {
+        position: absolute;
+        width: 143px;
+        height: 24px;
+        left: 82px;
+        top: 250px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 24px;
+        text-transform: capitalize;
+        color: #767676;
+    }
+
+    h4 {
+        position: absolute;
+        width: 142px;
+        height: 22px;
+        left: 81px;
+        top: 213px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 19px;
+        line-height: 22.25px;
+        align-items: center;
+        text-transform: capitalize;
+        color: #2B2B2B;
+    }
+
+    img {
+
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        left: 74px;
+        top: 50px;
+    }
 }
