@@ -6,26 +6,26 @@ body {
 }
 
 
-.ellipse1{
+.ellipse1 {
     box-sizing: border-box;
     position: absolute;
     width: 16px;
     height: 18.22px;
     left: 40px;
     top: 34.17px;
-    border: 2px solid rgba(255, 180, 0, 0.8);    
+    border: 2px solid rgba(255, 180, 0, 0.8);
     border-radius: 100%;
 }
 
 
-.ellipse2{
+.ellipse2 {
     box-sizing: border-box;
     position: absolute;
     width: 16px;
     height: 18.22px;
     left: 88px;
     top: 480.64px;
-    border: 2px solid rgba(255, 180, 0, 0.8);    
+    border: 2px solid rgba(5, 255, 0, 0.8);
     border-radius: 100%;
 }
 
@@ -40,6 +40,45 @@ div.Intro {
     top: 0px;
     background: #FFFFFF;
 
+    button {
+        position: absolute;
+        width: 154px;
+        height: 51px;
+        background: #FFB400;
+        border-radius: 5px;
+        left: 60px;
+        top: 389.53px;
+    }
+
+    button {
+        img{
+            position: absolute;
+            left: 108.67px;
+            right: 16.67%;
+            top:19.81px;
+            bottom: 17.59%;
+            width: 10.67px;
+            height: 10.37px;
+            background: #2B2B2B;
+        }
+        span {
+            white-space:nowrap;
+            position: absolute;
+            width: 65px;
+            height: 29px;
+            left: 32px;
+            top: 16px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            align-items: center;
+            text-align: center;
+            color: #2B2B2B;
+        }
+
+    }
 
     img {
         position: absolute;
