@@ -141,12 +141,152 @@ div.sidebar h4 {
   text-transform: capitalize;
   color: #2B2B2B;
 }
-div.sidebar img {
+div.sidebar .profile {
   position: absolute;
   width: 150px;
   height: 150px;
   left: 74px;
   top: 50px;
+}
+div.sidebar span.facebook {
+  border-radius: 50%;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 40px;
+  top: 307px;
+  background: #FFB400;
+}
+div.sidebar span.facebook img {
+  position: absolute;
+  left: 35%;
+  right: 27.08%;
+  top: 25%;
+  bottom: 8.33%;
+}
+div.sidebar span.instagram {
+  border-radius: 50%;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 79px;
+  top: 307px;
+  background: #FFB400;
+}
+div.sidebar span.instagram img {
+  position: absolute;
+  left: 30%;
+  right: 27.08%;
+  top: 25%;
+  bottom: 8.33%;
+}
+div.sidebar span.twitter {
+  border-radius: 50%;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 118px;
+  top: 307px;
+  background: #FFB400;
+}
+div.sidebar span.twitter img {
+  position: absolute;
+  left: 30%;
+  right: 27.08%;
+  top: 25%;
+  bottom: 8.33%;
+}
+div.sidebar span.linkedin {
+  border-radius: 50%;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 157px;
+  top: 307px;
+  background: #FFB400;
+}
+div.sidebar span.linkedin img {
+  position: absolute;
+  left: 30%;
+  right: 27.08%;
+  top: 20%;
+  bottom: 8.33%;
+}
+div.sidebar span.ball {
+  border-radius: 50%;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 235px;
+  top: 307px;
+  background: #FFB400;
+}
+div.sidebar span.ball img {
+  position: absolute;
+  left: 30%;
+  right: 27.08%;
+  top: 25%;
+  bottom: 8.33%;
+}
+div.sidebar span.youtube {
+  border-radius: 50%;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 196px;
+  top: 307px;
+  background: #FFB400;
+}
+div.sidebar span.youtube img {
+  position: absolute;
+  left: 30%;
+  right: 27.08%;
+  top: 30%;
+  bottom: 8.33%;
+}
+div.sidebar div.line {
+  position: absolute;
+  width: 220px;
+  height: 0px;
+  left: 40px;
+  top: 356px;
+  border: 1.5px solid #F0F0F6;
+}
+div.sidebar span.rectangle1 {
+  position: absolute;
+  width: 46px;
+  height: 24px;
+  left: 40px;
+  top: 381px;
+  /* Yellow */
+  background: #FFB400;
+}
+div.sidebar span.rectangle2 {
+  position: absolute;
+  width: 89px;
+  height: 24px;
+  left: 40px;
+  top: 415px;
+  /* Yellow */
+  background: #FFB400;
+}
+div.sidebar span.rectangle3 {
+  position: absolute;
+  width: 85px;
+  height: 24px;
+  left: 40px;
+  top: 449px;
+  /* Yellow */
+  background: #FFB400;
+}
+div.sidebar span.rectangle4 {
+  position: absolute;
+  width: 75px;
+  height: 24px;
+  left: 40px;
+  top: 483px;
+  /* Yellow */
+  background: #FFB400;
 }
 
 /*# sourceMappingURL=style.css.map */

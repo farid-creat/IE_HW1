@@ -129,6 +129,7 @@ div.sidebar {
         background: #7EB942;
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
     }
+
     p {
         position: absolute;
         width: 143px;
@@ -160,7 +161,7 @@ div.sidebar {
         color: #2B2B2B;
     }
 
-    img {
+    .profile {
 
         position: absolute;
         width: 150px;
@@ -168,4 +169,166 @@ div.sidebar {
         left: 74px;
         top: 50px;
     }
+
+    span.facebook {
+            border-radius: 50%;
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: 40px;
+            top: 307px;
+            background: #FFB400;
+            img{
+                position: absolute;
+                left: 35%;
+                right: 27.08%;
+                top: 25%;
+                bottom: 8.33%;
+            
+            }
+        }
+
+
+        span.instagram {
+            border-radius: 50%;
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left:79px;
+            top: 307px;
+            background: #FFB400;
+            img{
+                position: absolute;
+                left: 30%;
+                right: 27.08%;
+                top: 25%;
+                bottom: 8.33%;
+            
+            }
+        }
+
+        span.twitter {
+            border-radius: 50%;
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: 118px;
+            top: 307px;
+            background: #FFB400;
+            img{
+                position: absolute;
+                left: 30%;
+                right: 27.08%;
+                top: 25%;
+                bottom: 8.33%;
+            
+            }
+        }
+
+        span.linkedin {
+            border-radius: 50%;
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: 157px;
+            top: 307px;
+            background: #FFB400;
+            img{
+                position: absolute;
+                left: 30%;
+                right: 27.08%;
+                top: 20%;
+                bottom: 8.33%;
+            
+            }
+        }
+
+        span.ball {
+            border-radius: 50%;
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: 235px;
+            top: 307px;
+            background: #FFB400;
+            img{
+                position: absolute;
+                left: 30%;
+                right: 27.08%;
+                top: 25%;
+                bottom: 8.33%;
+            
+            }
+        }
+
+        span.youtube {
+            border-radius: 50%;
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: 196px;
+            top: 307px;
+            background: #FFB400;
+            img{
+                position: absolute;
+                left: 30%;
+                right: 27.08%;
+                top: 30%;
+                bottom: 8.33%;
+            
+            }
+        }
+        
+        div.line {
+                position: absolute;
+                width: 220px;
+                height: 0px;
+                left: 40px;
+                top: 356px;
+                border: 1.5px solid #F0F0F6;
+        }
+
+        span.rectangle1{
+            position: absolute;
+width: 46px;
+height: 24px;
+left: 40px;
+top: 381px;
+
+/* Yellow */
+background: #FFB400;
+        }
+        span.rectangle2{
+            
+position: absolute;
+width: 89px;
+height: 24px;
+left: 40px;
+top: 415px;
+
+/* Yellow */
+background: #FFB400;
+        }
+        span.rectangle3{
+            position: absolute;
+width: 85px;
+height: 24px;
+left: 40px;
+top: 449px;
+
+/* Yellow */
+background: #FFB400;
+        }
+        span.rectangle4{
+            position: absolute;
+width: 75px;
+height: 24px;
+left: 40px;
+top: 483px;
+
+/* Yellow */
+background: #FFB400;
+        }
+
+
 }
