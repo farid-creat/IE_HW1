@@ -252,7 +252,7 @@ div.sidebar div.line {
   top: 356px;
   border: 1.5px solid #F0F0F6;
 }
-div.sidebar span.rectangle1 {
+div.sidebar div.rectangle1 {
   position: absolute;
   width: 46px;
   height: 24px;
@@ -261,32 +261,91 @@ div.sidebar span.rectangle1 {
   /* Yellow */
   background: #FFB400;
 }
-div.sidebar span.rectangle2 {
+div.sidebar div.rectangle1 span {
+  position: absolute;
+  width: 33px;
+  height: 24px;
+  left: 5px;
+  top: 1px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  /* Black */
+  color: #2B2B2B;
+}
+div.sidebar div.rectangle2 {
   position: absolute;
   width: 89px;
   height: 24px;
   left: 40px;
   top: 415px;
-  /* Yellow */
   background: #FFB400;
 }
-div.sidebar span.rectangle3 {
+div.sidebar div.rectangle2 span {
+  position: absolute;
+  width: 78px;
+  height: 24px;
+  left: 5px;
+  top: 0px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  color: #2B2B2B;
+}
+div.sidebar div.rectangle3 {
   position: absolute;
   width: 85px;
   height: 24px;
   left: 40px;
   top: 449px;
-  /* Yellow */
   background: #FFB400;
 }
-div.sidebar span.rectangle4 {
+div.sidebar div.rectangle3 span {
+  position: absolute;
+  width: 74px;
+  height: 24px;
+  left: 5px;
+  top: 0px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  color: #2B2B2B;
+}
+div.sidebar div.rectangle4 {
   position: absolute;
   width: 75px;
   height: 24px;
   left: 40px;
   top: 483px;
-  /* Yellow */
   background: #FFB400;
+}
+div.sidebar div.rectangle4 span {
+  position: absolute;
+  width: 63px;
+  height: 24px;
+  left: 5px;
+  top: 0px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  color: #2B2B2B;
 }
 
 /*# sourceMappingURL=style.css.map */
