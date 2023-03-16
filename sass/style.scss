@@ -126,71 +126,8 @@ div.myservices {
     top: 531.9pxpx;
     background: #E5E5E5;
 
-    div.sound {
-        position: absolute;
-        width: 310px;
-        height: 225px;
-        left: 660px;
-        top: 256px;
-        background: #FFFFFF;
-
-        img {
-            position: absolute;
-            width: 74px;
-            height: 74px;
-            left: 118px;
-            top: 25px;
-        }
-        span.SoundDesign{
-            position: absolute;
-            width: 120px;
-            height: 22px;
-            left: 102px;
-            top: 122px;
-            
-            /* H4 - 18px */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            
-            /* or 22px */
-            text-transform: capitalize;
-            
-            /* Black */
-            color: #2B2B2B;
-         
-        }
-        span.TextSound{
-
-            position: absolute;
-            width: 175px;
-            height: 24px;
-            left: 74px;
-            top: 159px;
-            
-            /* Paragraph Progress - 15 */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            /* identical to box height, or 160% */
-            text-align: center;
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-            
-            /* Paragraph Font */
-            color: #767676;
-            
-        }
-    }
-/* Voice Over, Beat Making */
 
 
-    
-    
     span.service {
         position: absolute;
         width: 193px;
@@ -221,5 +158,409 @@ div.myservices {
         text-transform: capitalize;
         font-feature-settings: 'calt' off, 'kern' off;
         color: #767676;
+    }
+
+    div.sound {
+        position: absolute;
+        width: 310px;
+        height: 225px;
+        left: 660px;
+        top: 256px;
+        background: #FFFFFF;
+
+        img {
+            position: absolute;
+            width: 74px;
+            height: 74px;
+            left: 118px;
+            top: 25px;
+        }
+
+        span.SoundDesign {
+            position: absolute;
+            width: 120px;
+            height: 22px;
+            left: 102px;
+            top: 122px;
+
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+
+        }
+
+        span.TextSound {
+
+            position: absolute;
+            width: 175px;
+            height: 24px;
+            left: 74px;
+            top: 159px;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* identical to box height, or 160% */
+            text-align: center;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+
+        }
+    }
+
+
+    div.uXdesign {
+        position: absolute;
+        width: 310px;
+        height: 225px;
+        left: 330px;
+        top: 256px;
+        background: #FFFFFF;
+
+        img {
+            position: absolute;
+            width: 74px;
+            height: 74px;
+            left: 121px;
+            top: 28px;
+        }
+
+        span.titleuXdesign {
+            position: absolute;
+            width: 120px;
+            height: 22px;
+            left: 102px;
+            top: 122px;
+
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+
+        }
+
+        span.TextuXdesign {
+            white-space: nowrap;
+            position: absolute;
+            width: 175px;
+            height: 24px;
+            left: 74px;
+            top: 159px;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* identical to box height, or 160% */
+            text-align: center;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+
+
+        }
+
+
+
+    }
+
+
+    div.webdevelopment {
+        position: absolute;
+        width: 310px;
+        height: 225px;
+        left: 0px;
+        top: 256px;
+        background: #FFFFFF;
+
+        img {
+            position: absolute;
+            width: 74px;
+            height: 74px;
+            left: 121px;
+            top: 28px;
+        }
+
+        span.titlewebdevelopment {
+            white-space: nowrap;
+            position: absolute;
+            width: 120px;
+            height: 22px;
+            left: 90px;
+            top: 122px;
+
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+
+        }
+
+        span.Textwebdevelopment {
+            white-space: nowrap;
+
+            position: absolute;
+            width: 134px;
+            height: 24px;
+            left: 88px;
+            top: 159px;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* identical to box height, or 160% */
+            text-align: center;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+
+
+
+
+        }
+
+
+
+    }
+
+
+    div.advertising {
+        position: absolute;
+        width: 310px;
+        height: 225px;
+        left: 660px;
+        top: 501px;
+        background: #FFFFFF;
+
+        span.titleadvertising {
+
+            position: absolute;
+            width: 99px;
+            height: 22px;
+            left: 105px;
+            top: 31px;
+
+            /* H4 - 18px */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            /* or 22px */
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+
+
+
+        }
+
+        span.Textadvertising {
+            position: absolute;
+            width: 260px;
+            height: 78px;
+            left: 25px;
+            top: 75px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            text-align: center;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+            color: #767676;
+        }
+        a{
+            /* ORDER NOW */
+            white-space: nowrap;
+position: absolute;
+width: 69px;
+height: 14px;
+left: 112px;
+top: 183px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+/* Yellow */
+color: #FFB400;
+
+
+        }
+    }
+
+
+    div.photography {
+        position: absolute;
+        width: 310px;
+        height: 225px;
+        left: 330px;
+        top: 501px;
+        background: #FFFFFF;
+
+        img {
+            position: absolute;
+            width: 74px;
+            height: 74px;
+            left: 121px;
+            top: 28px;
+        }
+
+        span.titlephotography {
+            position: absolute;
+            width: 120px;
+            height: 22px;
+            left: 112px;
+            top: 128px;
+
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+
+        }
+
+        span.Textphotography {
+            white-space: nowrap;
+            position: absolute;
+            width: 175px;
+            height: 24px;
+            left: 70px;
+            top: 159px;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* identical to box height, or 160% */
+            text-align: center;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+
+
+        }
+
+
+
+    }
+
+    div.gamedesign {
+        position: absolute;
+        width: 310px;
+        height: 225px;
+        left: 0px;
+        top: 501px;
+        background: #FFFFFF;
+
+        img {
+            position: absolute;
+            width: 74px;
+            height: 74px;
+            left: 121px;
+            top: 28px;
+        }
+
+        span.titlegamedesign {
+            white-space: nowrap;
+            position: absolute;
+            width: 120px;
+            height: 22px;
+            left: 106px;
+            top: 122px;
+
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+
+        }
+
+        span.Textgamedesign {
+            white-space: nowrap;
+
+            position: absolute;
+            width: 134px;
+            height: 24px;
+            left: 50px;
+            top: 159px;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* identical to box height, or 160% */
+            text-align: center;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+
+
+
+
+        }
+
+
+
     }
 }
