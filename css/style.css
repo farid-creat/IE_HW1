@@ -10,6 +10,74 @@ body {
   left: 25%;
 }
 
+div.Intro {
+  position: relative;
+  width: 73.1523378582%;
+  height: 17.1636011617%;
+  left: 25.2639517345%;
+  right: 1.5837104072%;
+  top: 0px;
+  background: #FFFFFF;
+}
+div.Intro button {
+  position: absolute;
+  width: 15.8762886598%;
+  height: 9.5882684715%;
+  background: #FFB400;
+  border-radius: 5px;
+  left: 6.1855670103%;
+  top: 73.2336905433%;
+}
+div.Intro button img {
+  position: absolute;
+  left: 70.5649350649%;
+  right: 16.67%;
+  top: 43%;
+  bottom: 17.59%;
+  width: 6.9285714286%;
+  height: 20.3333333333%;
+  background: #2B2B2B;
+}
+div.Intro button span {
+  white-space: nowrap;
+  position: absolute;
+  width: 42.2077922078%;
+  height: 56.862745098%;
+  left: 20.7792207792%;
+  top: 31.3725490196%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 120%;
+  line-height: 117.6470588235%;
+  align-items: center;
+  text-align: center;
+  color: #2B2B2B;
+}
+div.Intro img {
+  position: absolute;
+  width: 33.5793814433%;
+  height: 98.30607257%;
+  left: 60.4824742268%;
+  top: 1.7127279564%;
+}
+div.Intro section {
+  position: absolute;
+  width: 51.5463917526%;
+  height: 25.2679075014%;
+  left: 6.1855670103%;
+  top: 19.9135175785%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 300%;
+  line-height: 123.6%;
+  color: #2B2B2B;
+}
+div.Intro section span {
+  color: #FFB400;
+}
+
 .ellipse1 {
   box-sizing: border-box;
   position: absolute;
@@ -762,74 +830,6 @@ div.sidebar button.Download span {
   text-transform: uppercase;
   /* Black */
   color: #2B2B2B;
-}
-
-div.Intro {
-  position: relative;
-  width: 970px;
-  height: 531.9px;
-  left: 335px;
-  right: 21px;
-  top: 0px;
-  background: #FFFFFF;
-}
-div.Intro button {
-  position: absolute;
-  width: 154px;
-  height: 51px;
-  background: #FFB400;
-  border-radius: 5px;
-  left: 60px;
-  top: 389.53px;
-}
-div.Intro button img {
-  position: absolute;
-  left: 108.67px;
-  right: 16.67%;
-  top: 19.81px;
-  bottom: 17.59%;
-  width: 10.67px;
-  height: 10.37px;
-  background: #2B2B2B;
-}
-div.Intro button span {
-  white-space: nowrap;
-  position: absolute;
-  width: 65px;
-  height: 29px;
-  left: 32px;
-  top: 16px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 19px;
-  align-items: center;
-  text-align: center;
-  color: #2B2B2B;
-}
-div.Intro img {
-  position: absolute;
-  width: 325.72px;
-  height: 522.89px;
-  left: 586.68px;
-  top: 9.11px;
-}
-div.Intro section {
-  position: absolute;
-  width: 500px;
-  height: 134.4px;
-  left: 60px;
-  top: 105.92px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 48px;
-  line-height: 123.6%;
-  color: #2B2B2B;
-}
-div.Intro section span {
-  color: #FFB400;
 }
 
 div.myservices {
