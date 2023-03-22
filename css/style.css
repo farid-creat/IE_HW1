@@ -19,6 +19,26 @@ div.Intro {
   top: 0px;
   background: #FFFFFF;
 }
+div.Intro .ellipse1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 1.6494845361%;
+  height: 18.22px;
+  left: 4.1237113402%;
+  top: 6.4241398759%;
+  border: 2px solid rgba(255, 180, 0, 0.8);
+  border-radius: 100%;
+}
+div.Intro .ellipse2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 1.6494845361%;
+  height: 18.22px;
+  left: 9.0721649485%;
+  top: 90.3628501598%;
+  border: 2px solid rgba(5, 255, 0, 0.8);
+  border-radius: 100%;
+}
 div.Intro button {
   position: absolute;
   width: 15.8762886598%;
@@ -78,26 +98,352 @@ div.Intro section span {
   color: #FFB400;
 }
 
-.ellipse1 {
-  box-sizing: border-box;
+div.myservices {
   position: absolute;
-  width: 16px;
-  height: 18.22px;
-  left: 40px;
-  top: 34.17px;
-  border: 2px solid rgba(255, 180, 0, 0.8);
-  border-radius: 100%;
+  width: 73.1523378582%;
+  height: 23.4269119071%;
+  right: 1.5837104072%;
+  left: 25.2639517345%;
+  top: 17.1636011617%;
+  background: #E5E5E5;
 }
-
-.ellipse2 {
-  box-sizing: border-box;
+div.myservices span.service {
   position: absolute;
-  width: 16px;
-  height: 18.22px;
+  width: 19.8969072165%;
+  height: 5.5096418733%;
+  left: 41.0309278351%;
+  top: 9.0909090909%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 200%;
+  line-height: 123.6%;
+  text-transform: capitalize;
+  color: #2B2B2B;
+}
+div.myservices span.servicetext {
+  position: absolute;
+  width: 45.1546391753%;
+  height: 9.3663911846%;
+  left: 27.4226804124%;
+  top: 19.0082644628%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 105%;
+  line-height: 140%;
+  text-align: center;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  color: #767676;
+}
+div.myservices div.sound {
+  position: absolute;
+  width: 31.9587628866%;
+  height: 30.9917355372%;
+  left: 68.0412371134%;
+  top: 35.261707989%;
+  background: #FFFFFF;
+}
+div.myservices div.sound img {
+  position: absolute;
+  width: 23.8709677419%;
+  height: 32.8888888889%;
+  left: 38.064516129%;
+  top: 11.1111111111%;
+}
+div.myservices div.sound span.SoundDesign {
+  position: absolute;
+  width: 38.7096774194%;
+  height: 9.7777777778%;
+  left: 32.9032258065%;
+  top: 54.2222222222%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 113%;
+  line-height: 123.6%;
+  text-transform: capitalize;
+  color: #2B2B2B;
+}
+div.myservices div.sound span.TextSound {
+  position: absolute;
+  width: 56.4516129032%;
+  height: 10.6666666667%;
+  left: 23.8709677419%;
+  top: 70.6666666667%;
+  /* Paragraph Progress - 15 */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 100%;
+  line-height: 160%;
+  /* identical to box height, or 160% */
+  text-align: center;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  /* Paragraph Font */
+  color: #767676;
+}
+div.myservices div.uXdesign {
+  position: absolute;
+  width: 31.9587628866%;
+  height: 30.9917355372%;
+  left: 34.0206185567%;
+  top: 35.261707989%;
+  background: #FFFFFF;
+}
+div.myservices div.uXdesign img {
+  position: absolute;
+  width: 23.8709677419%;
+  height: 32.8888888889%;
+  left: 39.0322580645%;
+  top: 12.4444444444%;
+}
+div.myservices div.uXdesign span.titleuXdesign {
+  position: absolute;
+  width: 38.7096774194%;
+  height: 9.7777777778%;
+  left: 32.9032258065%;
+  top: 54.2222222222%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 113%;
+  line-height: 123.6%;
+  text-transform: capitalize;
+  /* Black */
+  color: #2B2B2B;
+}
+div.myservices div.uXdesign span.TextuXdesign {
+  white-space: nowrap;
+  position: absolute;
+  width: 56.4516129032%;
+  height: 10.6666666667%;
+  left: 23.8709677419%;
+  top: 70.6666666667%;
+  /* Paragraph Progress - 15 */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 100%;
+  line-height: 160%;
+  /* identical to box height, or 160% */
+  text-align: center;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  /* Paragraph Font */
+  color: #767676;
+}
+div.myservices div.webdevelopment {
+  position: absolute;
+  width: 31.9587628866%;
+  height: 30.9917355372%;
+  left: 0%;
+  top: 35.261707989%;
+  background: #FFFFFF;
+}
+div.myservices div.webdevelopment img {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  left: 121px;
+  top: 28px;
+}
+div.myservices div.webdevelopment span.titlewebdevelopment {
+  white-space: nowrap;
+  position: absolute;
+  width: 120px;
+  height: 22px;
+  left: 90px;
+  top: 122px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 113%;
+  line-height: 123.6%;
+  text-transform: capitalize;
+  /* Black */
+  color: #2B2B2B;
+}
+div.myservices div.webdevelopment span.Textwebdevelopment {
+  white-space: nowrap;
+  position: absolute;
+  width: 134px;
+  height: 24px;
   left: 88px;
-  top: 480.64px;
-  border: 2px solid rgba(5, 255, 0, 0.8);
-  border-radius: 100%;
+  top: 159px;
+  /* Paragraph Progress - 15 */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+  text-align: center;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  /* Paragraph Font */
+  color: #767676;
+}
+div.myservices div.advertising {
+  position: absolute;
+  width: 31.9587628866%;
+  height: 30.9917355372%;
+  left: 68.0412371134%;
+  top: 69.0082644628%;
+  background: #FFFFFF;
+}
+div.myservices div.advertising span.titleadvertising {
+  position: absolute;
+  width: 99px;
+  height: 22px;
+  left: 105px;
+  top: 31px;
+  /* H4 - 18px */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 113%;
+  line-height: 123.6%;
+  /* or 22px */
+  text-transform: capitalize;
+  /* Black */
+  color: #2B2B2B;
+}
+div.myservices div.advertising span.Textadvertising {
+  position: absolute;
+  width: 260px;
+  height: 78px;
+  left: 25px;
+  top: 75px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  color: #767676;
+}
+div.myservices div.advertising a {
+  /* ORDER NOW */
+  white-space: nowrap;
+  position: absolute;
+  width: 69px;
+  height: 14px;
+  left: 112px;
+  top: 183px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+  /* Yellow */
+  color: #FFB400;
+}
+div.myservices div.photography {
+  position: absolute;
+  width: 31.9587628866%;
+  height: 30.9917355372%;
+  left: 34.0206185567%;
+  top: 69.0082644628%;
+  background: #FFFFFF;
+}
+div.myservices div.photography img {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  left: 121px;
+  top: 28px;
+}
+div.myservices div.photography span.titlephotography {
+  position: absolute;
+  width: 120px;
+  height: 22px;
+  left: 112px;
+  top: 128px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 113%;
+  line-height: 123.6%;
+  text-transform: capitalize;
+  /* Black */
+  color: #2B2B2B;
+}
+div.myservices div.photography span.Textphotography {
+  white-space: nowrap;
+  position: absolute;
+  width: 175px;
+  height: 24px;
+  left: 70px;
+  top: 159px;
+  /* Paragraph Progress - 15 */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+  text-align: center;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  /* Paragraph Font */
+  color: #767676;
+}
+div.myservices div.gamedesign {
+  position: absolute;
+  width: 31.9587628866%;
+  height: 30.9917355372%;
+  left: 0%;
+  top: 69.0082644628%;
+  background: #FFFFFF;
+}
+div.myservices div.gamedesign img {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  left: 121px;
+  top: 28px;
+}
+div.myservices div.gamedesign span.titlegamedesign {
+  white-space: nowrap;
+  position: absolute;
+  width: 120px;
+  height: 22px;
+  left: 106px;
+  top: 122px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 113%;
+  line-height: 123.6%;
+  text-transform: capitalize;
+  /* Black */
+  color: #2B2B2B;
+}
+div.myservices div.gamedesign span.Textgamedesign {
+  white-space: nowrap;
+  position: absolute;
+  width: 134px;
+  height: 24px;
+  left: 50px;
+  top: 159px;
+  /* Paragraph Progress - 15 */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+  text-align: center;
+  text-transform: capitalize;
+  font-feature-settings: "calt" off, "kern" off;
+  /* Paragraph Font */
+  color: #767676;
 }
 
 div.sidebar {
@@ -830,355 +1176,6 @@ div.sidebar button.Download span {
   text-transform: uppercase;
   /* Black */
   color: #2B2B2B;
-}
-
-div.myservices {
-  position: absolute;
-  width: 970px;
-  height: 726px;
-  right: 21px;
-  left: 335px;
-  top: 531.9px;
-  background: #E5E5E5;
-}
-div.myservices span.service {
-  position: absolute;
-  width: 193px;
-  height: 40px;
-  left: 398px;
-  top: 66px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 123.6%;
-  text-transform: capitalize;
-  color: #2B2B2B;
-}
-div.myservices span.servicetext {
-  position: absolute;
-  width: 438px;
-  height: 68px;
-  left: 266px;
-  top: 138px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  text-align: center;
-  text-transform: capitalize;
-  font-feature-settings: "calt" off, "kern" off;
-  color: #767676;
-}
-div.myservices div.sound {
-  position: absolute;
-  width: 310px;
-  height: 225px;
-  left: 660px;
-  top: 256px;
-  background: #FFFFFF;
-}
-div.myservices div.sound img {
-  position: absolute;
-  width: 74px;
-  height: 74px;
-  left: 118px;
-  top: 25px;
-}
-div.myservices div.sound span.SoundDesign {
-  position: absolute;
-  width: 120px;
-  height: 22px;
-  left: 102px;
-  top: 122px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 123.6%;
-  text-transform: capitalize;
-  /* Black */
-  color: #2B2B2B;
-}
-div.myservices div.sound span.TextSound {
-  position: absolute;
-  width: 175px;
-  height: 24px;
-  left: 74px;
-  top: 159px;
-  /* Paragraph Progress - 15 */
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  /* identical to box height, or 160% */
-  text-align: center;
-  text-transform: capitalize;
-  font-feature-settings: "calt" off, "kern" off;
-  /* Paragraph Font */
-  color: #767676;
-}
-div.myservices div.uXdesign {
-  position: absolute;
-  width: 310px;
-  height: 225px;
-  left: 330px;
-  top: 256px;
-  background: #FFFFFF;
-}
-div.myservices div.uXdesign img {
-  position: absolute;
-  width: 74px;
-  height: 74px;
-  left: 121px;
-  top: 28px;
-}
-div.myservices div.uXdesign span.titleuXdesign {
-  position: absolute;
-  width: 120px;
-  height: 22px;
-  left: 102px;
-  top: 122px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 123.6%;
-  text-transform: capitalize;
-  /* Black */
-  color: #2B2B2B;
-}
-div.myservices div.uXdesign span.TextuXdesign {
-  white-space: nowrap;
-  position: absolute;
-  width: 175px;
-  height: 24px;
-  left: 74px;
-  top: 159px;
-  /* Paragraph Progress - 15 */
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  /* identical to box height, or 160% */
-  text-align: center;
-  text-transform: capitalize;
-  font-feature-settings: "calt" off, "kern" off;
-  /* Paragraph Font */
-  color: #767676;
-}
-div.myservices div.webdevelopment {
-  position: absolute;
-  width: 310px;
-  height: 225px;
-  left: 0px;
-  top: 256px;
-  background: #FFFFFF;
-}
-div.myservices div.webdevelopment img {
-  position: absolute;
-  width: 74px;
-  height: 74px;
-  left: 121px;
-  top: 28px;
-}
-div.myservices div.webdevelopment span.titlewebdevelopment {
-  white-space: nowrap;
-  position: absolute;
-  width: 120px;
-  height: 22px;
-  left: 90px;
-  top: 122px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 123.6%;
-  text-transform: capitalize;
-  /* Black */
-  color: #2B2B2B;
-}
-div.myservices div.webdevelopment span.Textwebdevelopment {
-  white-space: nowrap;
-  position: absolute;
-  width: 134px;
-  height: 24px;
-  left: 88px;
-  top: 159px;
-  /* Paragraph Progress - 15 */
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  /* identical to box height, or 160% */
-  text-align: center;
-  text-transform: capitalize;
-  font-feature-settings: "calt" off, "kern" off;
-  /* Paragraph Font */
-  color: #767676;
-}
-div.myservices div.advertising {
-  position: absolute;
-  width: 310px;
-  height: 225px;
-  left: 660px;
-  top: 501px;
-  background: #FFFFFF;
-}
-div.myservices div.advertising span.titleadvertising {
-  position: absolute;
-  width: 99px;
-  height: 22px;
-  left: 105px;
-  top: 31px;
-  /* H4 - 18px */
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 123.6%;
-  /* or 22px */
-  text-transform: capitalize;
-  /* Black */
-  color: #2B2B2B;
-}
-div.myservices div.advertising span.Textadvertising {
-  position: absolute;
-  width: 260px;
-  height: 78px;
-  left: 25px;
-  top: 75px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  text-align: center;
-  text-transform: capitalize;
-  font-feature-settings: "calt" off, "kern" off;
-  color: #767676;
-}
-div.myservices div.advertising a {
-  /* ORDER NOW */
-  white-space: nowrap;
-  position: absolute;
-  width: 69px;
-  height: 14px;
-  left: 112px;
-  top: 183px;
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 12px;
-  line-height: 14px;
-  /* identical to box height */
-  /* Yellow */
-  color: #FFB400;
-}
-div.myservices div.photography {
-  position: absolute;
-  width: 310px;
-  height: 225px;
-  left: 330px;
-  top: 501px;
-  background: #FFFFFF;
-}
-div.myservices div.photography img {
-  position: absolute;
-  width: 74px;
-  height: 74px;
-  left: 121px;
-  top: 28px;
-}
-div.myservices div.photography span.titlephotography {
-  position: absolute;
-  width: 120px;
-  height: 22px;
-  left: 112px;
-  top: 128px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 123.6%;
-  text-transform: capitalize;
-  /* Black */
-  color: #2B2B2B;
-}
-div.myservices div.photography span.Textphotography {
-  white-space: nowrap;
-  position: absolute;
-  width: 175px;
-  height: 24px;
-  left: 70px;
-  top: 159px;
-  /* Paragraph Progress - 15 */
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  /* identical to box height, or 160% */
-  text-align: center;
-  text-transform: capitalize;
-  font-feature-settings: "calt" off, "kern" off;
-  /* Paragraph Font */
-  color: #767676;
-}
-div.myservices div.gamedesign {
-  position: absolute;
-  width: 310px;
-  height: 225px;
-  left: 0px;
-  top: 501px;
-  background: #FFFFFF;
-}
-div.myservices div.gamedesign img {
-  position: absolute;
-  width: 74px;
-  height: 74px;
-  left: 121px;
-  top: 28px;
-}
-div.myservices div.gamedesign span.titlegamedesign {
-  white-space: nowrap;
-  position: absolute;
-  width: 120px;
-  height: 22px;
-  left: 106px;
-  top: 122px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 123.6%;
-  text-transform: capitalize;
-  /* Black */
-  color: #2B2B2B;
-}
-div.myservices div.gamedesign span.Textgamedesign {
-  white-space: nowrap;
-  position: absolute;
-  width: 134px;
-  height: 24px;
-  left: 50px;
-  top: 159px;
-  /* Paragraph Progress - 15 */
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  /* identical to box height, or 160% */
-  text-align: center;
-  text-transform: capitalize;
-  font-feature-settings: "calt" off, "kern" off;
-  /* Paragraph Font */
-  color: #767676;
 }
 
 div.Education {
