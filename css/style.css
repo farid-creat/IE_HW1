@@ -5,7 +5,7 @@ body {
 .body {
   background: #E5E5E5;
   position: relative;
-  width: 50% px;
+  width: 50%;
   height: 3099px;
   left: 25%;
 }
@@ -98,6 +98,12 @@ div.Intro section span {
   color: #FFB400;
 }
 
+div.row::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
 div.myservices {
   position: absolute;
   width: 73.1523378582%;
@@ -109,9 +115,9 @@ div.myservices {
 }
 div.myservices span.service {
   position: absolute;
-  width: 19.8969072165%;
+  width: 100%;
   height: 5.5096418733%;
-  left: 41.0309278351%;
+  left: 0;
   top: 9.0909090909%;
   font-family: "Inter";
   font-style: normal;
@@ -119,6 +125,7 @@ div.myservices span.service {
   font-size: 200%;
   line-height: 123.6%;
   text-transform: capitalize;
+  text-align: center;
   color: #2B2B2B;
 }
 div.myservices span.servicetext {
@@ -165,6 +172,7 @@ div.myservices div.sound span.SoundDesign {
   line-height: 123.6%;
   text-transform: capitalize;
   color: #2B2B2B;
+  text-align: center;
 }
 div.myservices div.sound span.TextSound {
   position: absolute;
@@ -206,11 +214,13 @@ div.myservices div.uXdesign span.titleuXdesign {
   height: 9.7777777778%;
   left: 32.9032258065%;
   top: 54.2222222222%;
+  text-align: center;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 113%;
   line-height: 123.6%;
+  text-align: center;
   text-transform: capitalize;
   /* Black */
   color: #2B2B2B;
@@ -257,6 +267,7 @@ div.myservices div.webdevelopment span.titlewebdevelopment {
   height: 9.7777777778%;
   left: 29.0322580645%;
   top: 54.2222222222%;
+  text-align: center;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -293,9 +304,9 @@ div.myservices div.advertising {
 }
 div.myservices div.advertising span.titleadvertising {
   position: absolute;
-  width: 31.935483871%;
+  width: 100%;
   height: 9.7777777778%;
-  left: 33.8709677419%;
+  left: 0;
   top: 13.7777777778%;
   font-family: "Inter";
   font-style: normal;
@@ -304,6 +315,7 @@ div.myservices div.advertising span.titleadvertising {
   line-height: 123.6%;
   text-transform: capitalize;
   color: #2B2B2B;
+  text-align: center;
 }
 div.myservices div.advertising span.Textadvertising {
   position: absolute;
@@ -325,10 +337,11 @@ div.myservices div.advertising a {
   /* ORDER NOW */
   white-space: nowrap;
   position: absolute;
-  width: 22.2580645161%;
+  width: 100%;
   height: 6.2222222222%;
-  left: 36.1290322581%;
+  left: 0;
   top: 81.3333333333%;
+  text-align: center;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
@@ -355,10 +368,11 @@ div.myservices div.photography img {
 }
 div.myservices div.photography span.titlephotography {
   position: absolute;
-  width: 38.7096774194%;
+  width: 100%;
   height: 9.7777777778%;
-  left: 36.1290322581%;
+  left: 0;
   top: 56.8888888889%;
+  text-align: center;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -371,9 +385,9 @@ div.myservices div.photography span.titlephotography {
 div.myservices div.photography span.Textphotography {
   white-space: nowrap;
   position: absolute;
-  width: 56.4516129032%;
+  width: 100%;
   height: 10.6666666667%;
-  left: 22.5806451613%;
+  left: 0;
   top: 70.6666666667%;
   /* Paragraph Progress - 15 */
   font-family: "Inter";
@@ -406,10 +420,11 @@ div.myservices div.gamedesign img {
 div.myservices div.gamedesign span.titlegamedesign {
   white-space: nowrap;
   position: absolute;
-  width: 38.7096774194%;
+  width: 100%;
   height: 9.7777777778%;
-  left: 34.1935483871%;
+  left: 0;
   top: 54.2222222222%;
+  text-align: center;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -422,9 +437,9 @@ div.myservices div.gamedesign span.titlegamedesign {
 div.myservices div.gamedesign span.Textgamedesign {
   white-space: nowrap;
   position: absolute;
-  width: 43.2258064516%;
+  width: 100%;
   height: 10.6666666667%;
-  left: 16.1290322581%;
+  left: 0;
   top: 70.6666666667%;
   /* Paragraph Progress - 15 */
   font-family: "Inter";
@@ -450,9 +465,9 @@ div.Education {
 }
 div.Education span.EducationTitle {
   position: absolute;
-  width: 19.8969072165%;
+  width: 100%;
   height: 4.5402951192%;
-  left: 42.2680412371%;
+  left: 0;
   top: 7.4914869467%;
   font-family: "Inter";
   font-style: normal;
@@ -461,6 +476,7 @@ div.Education span.EducationTitle {
   line-height: 123.6%;
   text-transform: capitalize;
   color: #2B2B2B;
+  text-align: center;
 }
 div.Education span.Educationtext {
   position: absolute;

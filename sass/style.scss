@@ -5,7 +5,7 @@ body {
 .body {
     background: #E5E5E5;
     position: relative;
-    width: 50%px;
+    width: 50%;//1326px;
     height: 3099px;
     left: 25%;
 
@@ -110,6 +110,12 @@ div.Intro {
 
 }
 
+div.row::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
 div.myservices {
     position: absolute;
     width:1% * calc(970 / 1326 * 100);
@@ -123,9 +129,9 @@ div.myservices {
 
     span.service {
         position: absolute;
-        width:1% * calc(193 / 970 * 100);
+        width:100%;//1% * calc(193 / 970 * 100);
         height:1% * calc(40 / 726 * 100);
-        left:1% * calc(398 / 970 * 100);
+        left:0;//1% * calc(398 / 970 * 100);
         top:1% * calc(66 / 726 * 100);
         font-family: 'Inter';
         font-style: normal;
@@ -133,6 +139,7 @@ div.myservices {
         font-size: 200%;
         line-height: 123.6%;
         text-transform: capitalize;
+        text-align: center;
         color: #2B2B2B;
     }
 
@@ -182,6 +189,7 @@ div.myservices {
             line-height: 123.6%;
             text-transform: capitalize;
             color: #2B2B2B;
+            text-align: center;
 
         }
 
@@ -234,12 +242,13 @@ div.myservices {
             height:1% * calc(22 / 225 * 100) ;
             left:1% * calc(102 / 310 * 100) ;
             top:1% * calc(122 / 225 * 100) ;
-
+            text-align: center;
             font-family: 'Inter';
             font-style: normal;
             font-weight: 500;
             font-size: 113%;
             line-height: 123.6%;
+            text-align: center;
 
             text-transform: capitalize;
 
@@ -255,7 +264,6 @@ div.myservices {
             height:1% * calc(24 / 225 * 100) ;
             left:1% * calc(74 / 310 * 100) ;
             top:1% * calc(159 / 225 * 100) ;
-
             /* Paragraph Progress - 15 */
             font-family: 'Inter';
             font-style: normal;
@@ -301,6 +309,7 @@ div.myservices {
             height:1% * calc( 22 / 225 * 100);
             left:1% * calc(90 / 310 * 100) ;
             top:1% * calc(122 / 225 * 100) ;
+            text-align: center;
 
             font-family: 'Inter';
             font-style: normal;
@@ -346,9 +355,9 @@ div.myservices {
 
         span.titleadvertising {
             position: absolute;
-            width:1% * calc(99 / 310 * 100) ;
+            width:100%;//1% * calc(99 / 310 * 100) ;
             height:1% * calc(22 / 225 * 100) ;
-            left:1% * calc(105 / 310 * 100);
+            left:0;//1% * calc(105 / 310 * 100);
             top:1% * calc(31 / 225 * 100) ;
             font-family: 'Inter';
             font-style: normal;
@@ -357,6 +366,8 @@ div.myservices {
             line-height: 123.6%;
             text-transform: capitalize;
             color: #2B2B2B;
+            text-align: center;
+
         }
 
         span.Textadvertising {
@@ -380,10 +391,11 @@ div.myservices {
             /* ORDER NOW */
             white-space: nowrap;
             position: absolute;
-            width:1% * calc(69 / 310 * 100) ;
+            width:100%;//1% * calc(69 / 310 * 100) ;
             height:1% * calc(14 / 225 * 100) ;
-            left:1% * calc(112 / 310 * 100) ;
+            left:0;//1% * calc(112 / 310 * 100) ;
             top:1% * calc(183 / 225 * 100) ;
+            text-align: center;
 
             font-family: 'Roboto';
             font-style: normal;
@@ -418,10 +430,11 @@ div.myservices {
 
         span.titlephotography {
             position: absolute;
-            width:1% * calc(120 / 310 * 100) ;
+            width:100%;//1% * calc(120 / 310 * 100) ;
             height:1% * calc(22 / 225 * 100) ;
-            left:1% * calc(112 / 310 * 100) ;
+            left:0;//1% * calc(112 / 310 * 100) ;
             top:1% * calc(128 / 225 * 100) ;
+            text-align: center;
 
             font-family: 'Inter';
             font-style: normal;
@@ -439,9 +452,9 @@ div.myservices {
         span.Textphotography {
             white-space: nowrap;
             position: absolute;
-            width:1% * calc(175 / 310 * 100) ;
+            width:100%;//1% * calc(175 / 310 * 100) ;
             height:1% * calc(24 / 225 * 100) ;
-            left:1% * calc(70 / 310 * 100) ;
+            left:0;//1% * calc(70 / 310 * 100) ;
             top:1% * calc(159 / 225 * 100) ;
 
             /* Paragraph Progress - 15 */
@@ -486,10 +499,11 @@ div.myservices {
         span.titlegamedesign {
             white-space: nowrap;
             position: absolute;
-            width:1% * calc(120 / 310 * 100) ;
+            width:100%;//1% * calc(120 / 310 * 100) ;
             height:1% * calc(22 / 225 * 100) ;
-            left:1% * calc(106 / 310 * 100) ;
+            left:0;//1% * calc(106 / 310 * 100) ;
             top:1% * calc(122 / 225 * 100) ;
+            text-align: center;
 
             font-family: 'Inter';
             font-style: normal;
@@ -508,9 +522,9 @@ div.myservices {
             white-space: nowrap;
 
             position: absolute;
-            width:1% * calc(134 / 310 * 100) ;
+            width:100%;//1% * calc(134 / 310 * 100) ;
             height:1% * calc(24 / 225 * 100) ;
-            left:1% * calc(50 / 310 * 100) ;
+            left:0;//1% * calc(50 / 310 * 100) ;
             top:1% * calc(159 / 225 * 100) ;
 
             /* Paragraph Progress - 15 */
@@ -537,7 +551,6 @@ div.myservices {
     }
 }
 
-//convert to responsive done!
 div.Education {
     position: absolute;
     width:1% * calc(970 / 1326 * 100) ;
@@ -550,9 +563,9 @@ div.Education {
 
     span.EducationTitle {
         position: absolute;
-        width:1% * calc(193 / 970 * 100) ;
+        width:100%;//1% * calc(193 / 970 * 100) ;
         height:1% * calc(40 / 881 * 100) ;
-        left:1% * calc(410 / 970 * 100) ;
+        left:0;//1% * calc(410 / 970 * 100) ;
         top:1% * calc(66 / 881 * 100) ;
         font-family: 'Inter';
         font-style: normal;
@@ -561,6 +574,8 @@ div.Education {
         line-height: 123.6%;
         text-transform: capitalize;
         color: #2B2B2B;
+        text-align: center;
+
     }
 
     span.Educationtext {
@@ -900,8 +915,6 @@ div.Education {
 
 
 }
-
-
 
 div.WorkHistory {
     position: absolute;
@@ -1265,19 +1278,6 @@ div.WorkHistory {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 div.sidebar {
     position: absolute;
