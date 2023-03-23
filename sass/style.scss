@@ -5,7 +5,7 @@ body {
 .body {
     background: #E5E5E5;
     position: relative;
-    width: 1326px;
+    width: 50%px;
     height: 3099px;
     left: 25%;
 
@@ -277,7 +277,7 @@ div.myservices {
 
     }
 
-//cinvert to responsive done!
+
     div.webdevelopment {
         position: absolute;
         width:1% * calc(310 / 970 * 100);
@@ -288,19 +288,19 @@ div.myservices {
 
         img {
             position: absolute;
-            width: 74px;
-            height: 74px;
-            left: 121px;
-            top: 28px;
+            width:1% * calc(74 / 310 * 100) ;
+            height:1% * calc( 74 / 225 * 100) ;
+            left:1% * calc(121 / 310 * 100) ;
+            top:1% * calc( 28 / 225 * 100) ;
         }
 
         span.titlewebdevelopment {
             white-space: nowrap;
             position: absolute;
-            width: 120px;
-            height: 22px;
-            left: 90px;
-            top: 122px;
+            width:1% * calc(120 / 310 * 100) ;
+            height:1% * calc( 22 / 225 * 100);
+            left:1% * calc(90 / 310 * 100) ;
+            top:1% * calc(122 / 225 * 100) ;
 
             font-family: 'Inter';
             font-style: normal;
@@ -319,32 +319,20 @@ div.myservices {
             white-space: nowrap;
 
             position: absolute;
-            width: 134px;
-            height: 24px;
-            left: 88px;
-            top: 159px;
-
-            /* Paragraph Progress - 15 */
+            width:1% * calc(134 / 310 * 100) ;
+            height:1% * calc( 24 / 225 * 100) ;
+            left:1% * calc(88 / 310 * 100) ;
+            top:1% * calc( 159 / 225 * 100) ;
             font-family: 'Inter';
             font-style: normal;
             font-weight: 400;
             font-size: 15px;
             line-height: 24px;
-            /* identical to box height, or 160% */
             text-align: center;
             text-transform: capitalize;
             font-feature-settings: 'calt' off, 'kern' off;
-
-            /* Paragraph Font */
             color: #767676;
-
-
-
-
         }
-
-
-
     }
 
 
@@ -357,35 +345,26 @@ div.myservices {
         background: #FFFFFF;
 
         span.titleadvertising {
-
             position: absolute;
-            width: 99px;
-            height: 22px;
-            left: 105px;
-            top: 31px;
-
-            /* H4 - 18px */
+            width:1% * calc(99 / 310 * 100) ;
+            height:1% * calc(22 / 225 * 100) ;
+            left:1% * calc(105 / 310 * 100);
+            top:1% * calc(31 / 225 * 100) ;
             font-family: 'Inter';
             font-style: normal;
             font-weight: 500;
             font-size: 113%;
             line-height: 123.6%;
-            /* or 22px */
             text-transform: capitalize;
-
-            /* Black */
             color: #2B2B2B;
-
-
-
         }
 
         span.Textadvertising {
             position: absolute;
-            width: 260px;
-            height: 78px;
-            left: 25px;
-            top: 75px;
+            width:1% * calc(260 / 310 * 100) ;
+            height:1% * calc(78 / 225 * 100);
+            left:1% * calc(25 / 310 * 100) ;
+            top:1% * calc(75 / 225 * 100) ;
             font-family: 'Inter';
             font-style: normal;
             font-weight: 400;
@@ -401,10 +380,10 @@ div.myservices {
             /* ORDER NOW */
             white-space: nowrap;
             position: absolute;
-            width: 69px;
-            height: 14px;
-            left: 112px;
-            top: 183px;
+            width:1% * calc(69 / 310 * 100) ;
+            height:1% * calc(14 / 225 * 100) ;
+            left:1% * calc(112 / 310 * 100) ;
+            top:1% * calc(183 / 225 * 100) ;
 
             font-family: 'Roboto';
             font-style: normal;
@@ -431,18 +410,18 @@ div.myservices {
 
         img {
             position: absolute;
-            width: 74px;
-            height: 74px;
-            left: 121px;
-            top: 28px;
+            width:1% * calc(74 / 310 * 100) ;
+            height:1% * calc(74 / 225 * 100) ;
+            left:1% * calc(121 / 310 * 100) ;
+            top:1% * calc(28 / 225 * 100) ;
         }
 
         span.titlephotography {
             position: absolute;
-            width: 120px;
-            height: 22px;
-            left: 112px;
-            top: 128px;
+            width:1% * calc(120 / 310 * 100) ;
+            height:1% * calc(22 / 225 * 100) ;
+            left:1% * calc(112 / 310 * 100) ;
+            top:1% * calc(128 / 225 * 100) ;
 
             font-family: 'Inter';
             font-style: normal;
@@ -460,10 +439,10 @@ div.myservices {
         span.Textphotography {
             white-space: nowrap;
             position: absolute;
-            width: 175px;
-            height: 24px;
-            left: 70px;
-            top: 159px;
+            width:1% * calc(175 / 310 * 100) ;
+            height:1% * calc(24 / 225 * 100) ;
+            left:1% * calc(70 / 310 * 100) ;
+            top:1% * calc(159 / 225 * 100) ;
 
             /* Paragraph Progress - 15 */
             font-family: 'Inter';
@@ -486,6 +465,8 @@ div.myservices {
 
     }
 
+
+    
     div.gamedesign {
         position: absolute;
         width:1% * calc(310 / 970 * 100);
@@ -496,19 +477,19 @@ div.myservices {
 
         img {
             position: absolute;
-            width: 74px;
-            height: 74px;
-            left: 121px;
-            top: 28px;
+            width:1% * calc(74 / 310 * 100) ;
+            height:1% * calc(74 / 225 * 100);
+            left:1% * calc(121 / 310 * 100) ;
+            top:1% * calc(28 / 225 * 100) ;
         }
 
         span.titlegamedesign {
             white-space: nowrap;
             position: absolute;
-            width: 120px;
-            height: 22px;
-            left: 106px;
-            top: 122px;
+            width:1% * calc(120 / 310 * 100) ;
+            height:1% * calc(22 / 225 * 100) ;
+            left:1% * calc(106 / 310 * 100) ;
+            top:1% * calc(122 / 225 * 100) ;
 
             font-family: 'Inter';
             font-style: normal;
@@ -527,10 +508,10 @@ div.myservices {
             white-space: nowrap;
 
             position: absolute;
-            width: 134px;
-            height: 24px;
-            left: 50px;
-            top: 159px;
+            width:1% * calc(134 / 310 * 100) ;
+            height:1% * calc(24 / 225 * 100) ;
+            left:1% * calc(50 / 310 * 100) ;
+            top:1% * calc(159 / 225 * 100) ;
 
             /* Paragraph Progress - 15 */
             font-family: 'Inter';
@@ -555,6 +536,746 @@ div.myservices {
 
     }
 }
+
+//convert to responsive done!
+div.Education {
+    position: absolute;
+    width:1% * calc(970 / 1326 * 100) ;
+    height:1% * calc(881 / 3099 * 100) ;
+    left:1% * calc(310 / 1326 * 100) ;
+    top:1% * calc(1255 / 3099 * 100) ;
+    background: #E5E5E5;
+
+
+
+    span.EducationTitle {
+        position: absolute;
+        width:1% * calc(193 / 970 * 100) ;
+        height:1% * calc(40 / 881 * 100) ;
+        left:1% * calc(410 / 970 * 100) ;
+        top:1% * calc(66 / 881 * 100) ;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 123.6%;
+        text-transform: capitalize;
+        color: #2B2B2B;
+    }
+
+    span.Educationtext {
+        position: absolute;
+        width:1% * calc(438 / 970 * 100) ;
+        height:1% * calc(68 / 881 * 100) ;
+        left:1% * calc(266 / 970 * 100) ;
+        top:1% * calc(131 / 881 * 100) ;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: center;
+        text-transform: capitalize;
+        font-feature-settings: 'calt' off, 'kern' off;
+        color: #767676;
+    }
+
+
+    div.UniversityofToronto {
+        position: absolute;
+        width:1% * calc(970 / 970 * 100) ;
+        height:1% * calc(208 / 881 * 100) ;
+        left:1% * calc(0 / 970 * 100) ;
+        top:1% * calc(249 / 881 * 100) ;
+        background: #FFFFFF;
+
+        span.title {
+            position: absolute;
+            width:1% * calc(184 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(51 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            text-transform: capitalize;
+            color: #2B2B2B;
+        }
+
+        span.student {
+
+            position: absolute;
+            width:1% * calc(57 / 970 * 100) ;
+            height:1% * calc(24 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(98 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+            color: #2B2B2B;
+        }
+
+        span.date {
+            position: absolute;
+            width:1% * calc(111 / 970 * 100) ;
+            height:1% * calc(18 / 208 * 100) ;
+            left:1% * calc(115 / 970 * 100) ;
+            top:1% * calc(101 / 208 * 100) ;
+            background: #FFB400;
+            border-radius: 1px;
+            /* Jan 1016 - Dec 2021 */
+            text-align: center;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 18px;
+            color: #FFFFFF;
+        }
+
+        span.TextTitle {
+            /* Certificate of web training */
+
+            position: absolute;
+            width:1% * calc(234 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(47 / 208 * 100) ;
+
+            /* H4 - 18px */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            /* or 22px */
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+        }
+
+        span.Text {
+            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+
+            position: absolute;
+            width:1% * calc(536 / 970 * 100) ;
+            height:1% * calc(100 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(97 / 208 * 100) ;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* or 160% */
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+        }
+    }
+
+
+
+    div.ProgrammingCourse {
+        position: absolute;
+        width:1% * calc(970 / 970 * 100) ;
+        height:1% * calc(208 / 881 * 100) ;
+        left:1% * calc(0 / 970 * 100) ;
+        top:1% * calc(457 / 881 * 100) ;
+        background: #FFFFFF;
+
+        span.title {
+            position: absolute;
+            width:1% * calc(184 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(51 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            text-transform: capitalize;
+            color: #2B2B2B;
+        }
+
+        span.student {
+
+            position: absolute;
+            width:1% * calc(57 / 970 * 100) ;
+            height:1% * calc(24 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(98 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+            color: #2B2B2B;
+        }
+
+        span.date {
+            position: absolute;
+            width:1% * calc(111 / 970 * 100) ;
+            height:1% * calc(18 / 208 * 100) ;
+            left:1% * calc(115 / 970 * 100) ;
+            top:1% * calc(101 / 208 * 100) ;
+            background: #FFB400;
+            border-radius: 1px;
+            /* Jan 1016 - Dec 2021 */
+            text-align: center;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 18px;
+            color: #FFFFFF;
+        }
+
+        span.TextTitle {
+            /* Certificate of web training */
+
+            position: absolute;
+            width:1% * calc(234 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(47 / 208 * 100) ;
+
+            /* H4 - 18px */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            /* or 22px */
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+        }
+
+        span.Text {
+            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+
+            position: absolute;
+            width:1% * calc(536 / 970 * 100) ;
+            height:1% * calc(100 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(97 / 208 * 100) ;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* or 160% */
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+        }
+    }
+
+
+
+    div.SeniorWebDesigner {
+        position: absolute;
+        width:1% * calc(970 / 970 * 100) ;
+        height:1% * calc(208 / 881 * 100) ;
+        left:1% * calc(0 / 970 * 100) ;
+        top:1% * calc(654 / 881 * 100) ;
+        background: #FFFFFF;
+
+        span.title {
+            position: absolute;
+            width:1% * calc(184 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(51 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            text-transform: capitalize;
+            color: #2B2B2B;
+        }
+
+        span.student {
+
+            position: absolute;
+            width:1% * calc(57 / 970 * 100) ;
+            height:1% * calc(24 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(98 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+            color: #2B2B2B;
+        }
+
+        span.date {
+            position: absolute;
+            width:1% * calc(111 / 970 * 100) ;
+            height:1% * calc(18 / 208 * 100) ;
+            left:1% * calc(115 / 970 * 100) ;
+            top:1% * calc(101 / 208 * 100) ;
+            background: #FFB400;
+            border-radius: 1px;
+            /* Jan 1016 - Dec 2021 */
+            text-align: center;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 18px;
+            color: #FFFFFF;
+        }
+
+        span.TextTitle {
+            /* Certificate of web training */
+
+            position: absolute;
+            width:1% * calc(234 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(47 / 208 * 100) ;
+
+            /* H4 - 18px */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            /* or 22px */
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+        }
+
+        span.Text {
+            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+
+            position: absolute;
+            width:1% * calc(536 / 970 * 100) ;
+            height:1% * calc(100 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(97 / 208 * 100) ;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* or 160% */
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+        }
+    }
+
+
+
+}
+
+
+
+div.WorkHistory {
+    position: absolute;
+    width:1% * calc(970 / 1326 * 100) ;
+    height:1% * calc(881 / 3099 * 100) ;
+    left:1% * calc(310 / 1326 * 100) ;
+    top:1% * calc(2136 / 3099 * 100) ;
+    background: #E5E5E5;
+
+
+
+    span.WorkHistoryTitle {
+        position: absolute;
+        width:1% * calc(193 / 970 * 100) ;
+        height:1% * calc(40 / 881 * 100) ;
+        left:1% * calc(410 / 970 * 100) ;
+        top:1% * calc(66 / 881 * 100) ;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 123.6%;
+        text-transform: capitalize;
+        color: #2B2B2B;
+    }
+
+    span.WorkHistorytext {
+        position: absolute;
+        width:1% * calc(438 / 970 * 100) ;
+        height:1% * calc(68 / 881 * 100) ;
+        left:1% * calc(266 / 970 * 100) ;
+        top:1% * calc(131 / 881 * 100) ;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: center;
+        text-transform: capitalize;
+        font-feature-settings: 'calt' off, 'kern' off;
+        color: #767676;
+    }
+
+
+    div.LeadWebDesigner {
+        position: absolute;
+        width:1% * calc(970 / 970 * 100) ;
+        height:1% * calc(208 / 881 * 100) ;
+        left:1% * calc(0 / 970 * 100) ;
+        top:1% * calc(249 / 881 * 100) ;
+        background: #FFFFFF;
+
+        span.title {
+            position: absolute;
+            width:1% * calc(184 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(51 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            text-transform: capitalize;
+            color: #2B2B2B;
+        }
+
+        span.student {
+
+            position: absolute;
+            width:1% * calc(57 / 970 * 100) ;
+            height:1% * calc(24 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(98 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+            color: #2B2B2B;
+        }
+
+        span.date {
+            position: absolute;
+            width:1% * calc(111 / 970 * 100) ;
+            height:1% * calc(18 / 208 * 100) ;
+            left:1% * calc(115 / 970 * 100) ;
+            top:1% * calc(101 / 208 * 100) ;
+            background: #FFB400;
+            border-radius: 1px;
+            /* Jan 1016 - Dec 2021 */
+            text-align: center;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 18px;
+            color: #FFFFFF;
+        }
+
+        span.TextTitle {
+            /* Certificate of web training */
+
+            position: absolute;
+            width:1% * calc(234 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(47 / 208 * 100) ;
+
+            /* H4 - 18px */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            /* or 22px */
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+        }
+
+        span.Text {
+            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+
+            position: absolute;
+            width:1% * calc(536 / 970 * 100) ;
+            height:1% * calc(100 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(97 / 208 * 100) ;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* or 160% */
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+        }
+    }
+
+
+
+    div.JuniorWebDesigner {
+        position: absolute;
+        width:1% * calc(970 / 970 * 100) ;
+        height:1% * calc(208 / 881 * 100) ;
+        left:1% * calc(0 / 970 * 100) ;
+        top:1% * calc(457 / 881 * 100) ;
+        background: #FFFFFF;
+
+        span.title {
+            position: absolute;
+            width:1% * calc(184 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(51 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            text-transform: capitalize;
+            color: #2B2B2B;
+        }
+
+        span.student {
+
+            position: absolute;
+            width:1% * calc(57 / 970 * 100) ;
+            height:1% * calc(24 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(98 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+            color: #2B2B2B;
+        }
+
+        span.date {
+            position: absolute;
+            width:1% * calc(111 / 970 * 100) ;
+            height:1% * calc(18 / 208 * 100) ;
+            left:1% * calc(115 / 970 * 100) ;
+            top:1% * calc(101 / 208 * 100) ;
+            background: #FFB400;
+            border-radius: 1px;
+            /* Jan 1016 - Dec 2021 */
+            text-align: center;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 18px;
+            color: #FFFFFF;
+        }
+
+        span.TextTitle {
+            /* Certificate of web training */
+
+            position: absolute;
+            width:1% * calc(234 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(47 / 208 * 100) ;
+
+            /* H4 - 18px */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            /* or 22px */
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+        }
+
+        span.Text {
+            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+
+            position: absolute;
+            width:1% * calc(536 / 970 * 100) ;
+            height:1% * calc(100 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(97 / 208 * 100) ;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* or 160% */
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+        }
+    }
+
+
+
+    div.SeniorWebDesigner {
+        position: absolute;
+        width:1% * calc(970 / 970 * 100) ;
+        height:1% * calc(208 / 881 * 100) ;
+        left:1% * calc(0 / 970 * 100) ;
+        top:1% * calc(654 / 881 * 100) ;
+        background: #FFFFFF;
+
+        span.title {
+            position: absolute;
+            width:1% * calc(184 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(51 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            text-transform: capitalize;
+            color: #2B2B2B;
+        }
+
+        span.student {
+
+            position: absolute;
+            width:1% * calc(57 / 970 * 100) ;
+            height:1% * calc(24 / 208 * 100) ;
+            left:1% * calc(37 / 970 * 100) ;
+            top:1% * calc(98 / 208 * 100) ;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+            color: #2B2B2B;
+        }
+
+        span.date {
+            position: absolute;
+            width:1% * calc(111 / 970 * 100) ;
+            height:1% * calc(18 / 208 * 100) ;
+            left:1% * calc(115 / 970 * 100) ;
+            top:1% * calc(101 / 208 * 100) ;
+            background: #FFB400;
+            border-radius: 1px;
+            /* Jan 1016 - Dec 2021 */
+            text-align: center;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 18px;
+            color: #FFFFFF;
+        }
+
+        span.TextTitle {
+            /* Certificate of web training */
+
+            position: absolute;
+            width:1% * calc(234 / 970 * 100) ;
+            height:1% * calc(22 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(47 / 208 * 100) ;
+
+            /* H4 - 18px */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 123.6%;
+            /* or 22px */
+            text-transform: capitalize;
+
+            /* Black */
+            color: #2B2B2B;
+        }
+
+        span.Text {
+            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+
+            position: absolute;
+            width:1% * calc(536 / 970 * 100) ;
+            height:1% * calc(100 / 208 * 100) ;
+            left:1% * calc(405 / 970 * 100) ;
+            top:1% * calc(97 / 208 * 100) ;
+
+            /* Paragraph Progress - 15 */
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 24px;
+            /* or 160% */
+            text-transform: capitalize;
+            font-feature-settings: 'calt' off, 'kern' off;
+
+            /* Paragraph Font */
+            color: #767676;
+        }
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1424,737 +2145,5 @@ div.sidebar {
         }
 
     }
-
-}
-
-div.Education {
-    position: absolute;
-    width: 970px;
-    height: 881px;
-    left: 310px;
-    top: 1255px;
-    background: #E5E5E5;
-
-
-
-    span.EducationTitle {
-        position: absolute;
-        width: 193px;
-        height: 40px;
-        left: 410px;
-        top: 66px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 32px;
-        line-height: 123.6%;
-        text-transform: capitalize;
-        color: #2B2B2B;
-    }
-
-    span.Educationtext {
-        position: absolute;
-        width: 438px;
-        height: 68px;
-        left: 266px;
-        top: 131px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 15px;
-        line-height: 24px;
-        text-align: center;
-        text-transform: capitalize;
-        font-feature-settings: 'calt' off, 'kern' off;
-        color: #767676;
-    }
-
-
-
-
-
-    div.UniversityofToronto {
-        position: absolute;
-        width: 970px;
-        height: 208px;
-        left: 0px;
-        top: 249px;
-        background: #FFFFFF;
-
-        span.title {
-            position: absolute;
-            width: 184px;
-            height: 22px;
-            left: 37px;
-            top: 51px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            text-transform: capitalize;
-            color: #2B2B2B;
-        }
-
-        span.student {
-
-            position: absolute;
-            width: 57px;
-            height: 24px;
-            left: 37px;
-            top: 98px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-            color: #2B2B2B;
-        }
-
-        span.date {
-            position: absolute;
-            width: 111px;
-            height: 18px;
-            left: 115px;
-            top: 101px;
-            background: #FFB400;
-            border-radius: 1px;
-            /* Jan 1016 - Dec 2021 */
-            text-align: center;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 10px;
-            line-height: 18px;
-            color: #FFFFFF;
-        }
-
-        span.TextTitle {
-            /* Certificate of web training */
-
-            position: absolute;
-            width: 234px;
-            height: 22px;
-            left: 405px;
-            top: 47px;
-
-            /* H4 - 18px */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            /* or 22px */
-            text-transform: capitalize;
-
-            /* Black */
-            color: #2B2B2B;
-        }
-
-        span.Text {
-            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
-
-            position: absolute;
-            width: 536px;
-            height: 100px;
-            left: 405px;
-            top: 97px;
-
-            /* Paragraph Progress - 15 */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            /* or 160% */
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-
-            /* Paragraph Font */
-            color: #767676;
-        }
-    }
-
-
-
-    div.ProgrammingCourse {
-        position: absolute;
-        width: 970px;
-        height: 208px;
-        left: 0px;
-        top: 457px;
-        background: #FFFFFF;
-
-        span.title {
-            position: absolute;
-            width: 184px;
-            height: 22px;
-            left: 37px;
-            top: 51px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            text-transform: capitalize;
-            color: #2B2B2B;
-        }
-
-        span.student {
-
-            position: absolute;
-            width: 57px;
-            height: 24px;
-            left: 37px;
-            top: 98px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-            color: #2B2B2B;
-        }
-
-        span.date {
-            position: absolute;
-            width: 111px;
-            height: 18px;
-            left: 115px;
-            top: 101px;
-            background: #FFB400;
-            border-radius: 1px;
-            /* Jan 1016 - Dec 2021 */
-            text-align: center;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 10px;
-            line-height: 18px;
-            color: #FFFFFF;
-        }
-
-        span.TextTitle {
-            /* Certificate of web training */
-
-            position: absolute;
-            width: 234px;
-            height: 22px;
-            left: 405px;
-            top: 47px;
-
-            /* H4 - 18px */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            /* or 22px */
-            text-transform: capitalize;
-
-            /* Black */
-            color: #2B2B2B;
-        }
-
-        span.Text {
-            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
-
-            position: absolute;
-            width: 536px;
-            height: 100px;
-            left: 405px;
-            top: 97px;
-
-            /* Paragraph Progress - 15 */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            /* or 160% */
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-
-            /* Paragraph Font */
-            color: #767676;
-        }
-    }
-
-
-
-    div.SeniorWebDesigner {
-        position: absolute;
-        width: 970px;
-        height: 208px;
-        left: 0px;
-        top: 654px;
-        background: #FFFFFF;
-
-        span.title {
-            position: absolute;
-            width: 184px;
-            height: 22px;
-            left: 37px;
-            top: 51px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            text-transform: capitalize;
-            color: #2B2B2B;
-        }
-
-        span.student {
-
-            position: absolute;
-            width: 57px;
-            height: 24px;
-            left: 37px;
-            top: 98px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-            color: #2B2B2B;
-        }
-
-        span.date {
-            position: absolute;
-            width: 111px;
-            height: 18px;
-            left: 115px;
-            top: 101px;
-            background: #FFB400;
-            border-radius: 1px;
-            /* Jan 1016 - Dec 2021 */
-            text-align: center;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 10px;
-            line-height: 18px;
-            color: #FFFFFF;
-        }
-
-        span.TextTitle {
-            /* Certificate of web training */
-
-            position: absolute;
-            width: 234px;
-            height: 22px;
-            left: 405px;
-            top: 47px;
-
-            /* H4 - 18px */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            /* or 22px */
-            text-transform: capitalize;
-
-            /* Black */
-            color: #2B2B2B;
-        }
-
-        span.Text {
-            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
-
-            position: absolute;
-            width: 536px;
-            height: 100px;
-            left: 405px;
-            top: 97px;
-
-            /* Paragraph Progress - 15 */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            /* or 160% */
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-
-            /* Paragraph Font */
-            color: #767676;
-        }
-    }
-
-
-
-}
-
-div.WorkHistory {
-    position: absolute;
-    width: 970px;
-    height: 881px;
-    left: 310px;
-    top: 2136px;
-    background: #E5E5E5;
-
-
-
-    span.WorkHistoryTitle {
-        position: absolute;
-        width: 193px;
-        height: 40px;
-        left: 410px;
-        top: 66px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 32px;
-        line-height: 123.6%;
-        text-transform: capitalize;
-        color: #2B2B2B;
-    }
-
-    span.WorkHistorytext {
-        position: absolute;
-        width: 438px;
-        height: 68px;
-        left: 266px;
-        top: 131px;
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 15px;
-        line-height: 24px;
-        text-align: center;
-        text-transform: capitalize;
-        font-feature-settings: 'calt' off, 'kern' off;
-        color: #767676;
-    }
-
-
-
-
-
-    div.LeadWebDesigner {
-        position: absolute;
-        width: 970px;
-        height: 208px;
-        left: 0px;
-        top: 249px;
-        background: #FFFFFF;
-
-        span.title {
-            position: absolute;
-            width: 184px;
-            height: 22px;
-            left: 37px;
-            top: 51px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            text-transform: capitalize;
-            color: #2B2B2B;
-        }
-
-        span.student {
-
-            position: absolute;
-            width: 57px;
-            height: 24px;
-            left: 37px;
-            top: 98px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-            color: #2B2B2B;
-        }
-
-        span.date {
-            position: absolute;
-            width: 111px;
-            height: 18px;
-            left: 115px;
-            top: 101px;
-            background: #FFB400;
-            border-radius: 1px;
-            /* Jan 1016 - Dec 2021 */
-            text-align: center;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 10px;
-            line-height: 18px;
-            color: #FFFFFF;
-        }
-
-        span.TextTitle {
-            /* Certificate of web training */
-
-            position: absolute;
-            width: 234px;
-            height: 22px;
-            left: 405px;
-            top: 47px;
-
-            /* H4 - 18px */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            /* or 22px */
-            text-transform: capitalize;
-
-            /* Black */
-            color: #2B2B2B;
-        }
-
-        span.Text {
-            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
-
-            position: absolute;
-            width: 536px;
-            height: 100px;
-            left: 405px;
-            top: 97px;
-
-            /* Paragraph Progress - 15 */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            /* or 160% */
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-
-            /* Paragraph Font */
-            color: #767676;
-        }
-    }
-
-
-
-    div.JuniorWebDesigner {
-        position: absolute;
-        width: 970px;
-        height: 208px;
-        left: 0px;
-        top: 457px;
-        background: #FFFFFF;
-
-        span.title {
-            position: absolute;
-            width: 184px;
-            height: 22px;
-            left: 37px;
-            top: 51px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            text-transform: capitalize;
-            color: #2B2B2B;
-        }
-
-        span.student {
-
-            position: absolute;
-            width: 57px;
-            height: 24px;
-            left: 37px;
-            top: 98px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-            color: #2B2B2B;
-        }
-
-        span.date {
-            position: absolute;
-            width: 111px;
-            height: 18px;
-            left: 115px;
-            top: 101px;
-            background: #FFB400;
-            border-radius: 1px;
-            /* Jan 1016 - Dec 2021 */
-            text-align: center;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 10px;
-            line-height: 18px;
-            color: #FFFFFF;
-        }
-
-        span.TextTitle {
-            /* Certificate of web training */
-
-            position: absolute;
-            width: 234px;
-            height: 22px;
-            left: 405px;
-            top: 47px;
-
-            /* H4 - 18px */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            /* or 22px */
-            text-transform: capitalize;
-
-            /* Black */
-            color: #2B2B2B;
-        }
-
-        span.Text {
-            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
-
-            position: absolute;
-            width: 536px;
-            height: 100px;
-            left: 405px;
-            top: 97px;
-
-            /* Paragraph Progress - 15 */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            /* or 160% */
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-
-            /* Paragraph Font */
-            color: #767676;
-        }
-    }
-
-
-
-    div.SeniorWebDesigner {
-        position: absolute;
-        width: 970px;
-        height: 208px;
-        left: 0px;
-        top: 654px;
-        background: #FFFFFF;
-
-        span.title {
-            position: absolute;
-            width: 184px;
-            height: 22px;
-            left: 37px;
-            top: 51px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            text-transform: capitalize;
-            color: #2B2B2B;
-        }
-
-        span.student {
-
-            position: absolute;
-            width: 57px;
-            height: 24px;
-            left: 37px;
-            top: 98px;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-            color: #2B2B2B;
-        }
-
-        span.date {
-            position: absolute;
-            width: 111px;
-            height: 18px;
-            left: 115px;
-            top: 101px;
-            background: #FFB400;
-            border-radius: 1px;
-            /* Jan 1016 - Dec 2021 */
-            text-align: center;
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 10px;
-            line-height: 18px;
-            color: #FFFFFF;
-        }
-
-        span.TextTitle {
-            /* Certificate of web training */
-
-            position: absolute;
-            width: 234px;
-            height: 22px;
-            left: 405px;
-            top: 47px;
-
-            /* H4 - 18px */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 123.6%;
-            /* or 22px */
-            text-transform: capitalize;
-
-            /* Black */
-            color: #2B2B2B;
-        }
-
-        span.Text {
-            /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
-
-            position: absolute;
-            width: 536px;
-            height: 100px;
-            left: 405px;
-            top: 97px;
-
-            /* Paragraph Progress - 15 */
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 15px;
-            line-height: 24px;
-            /* or 160% */
-            text-transform: capitalize;
-            font-feature-settings: 'calt' off, 'kern' off;
-
-            /* Paragraph Font */
-            color: #767676;
-        }
-    }
-
-
 
 }
