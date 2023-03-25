@@ -1,2 +1,19 @@
-# IE_HW1
-  <img align="right" alt="GIF" src="Untitled.png?raw=true" width="500" height="320" />
+
+## درباره پروژه
+<img align="right" alt="GIF" src="Untitled.png?raw=true" width="500" height="320" />
+
+در این صفحه که مربوط به رزومه است از قالب مناسب برای نمایش ویژگی های شخص استفاده کردیم تا رزومه ای کامل بسازیم این رزومه همچنین واکنش گرا است که برای اندازه صفحه های مختلف به راحتی نمایش داده شود 
+
+چند نکته
+* اندازه ها بر اساس  https://www.w3schools.com/html/html_responsive.asp تنظیم شده است. 
+
+
+## لایسنس
+
+اطلاعات لایسنس را در 
+<a href="README.md">لایسنس</a>
+
+میتوانید پیدا کنیم
+
+
+
