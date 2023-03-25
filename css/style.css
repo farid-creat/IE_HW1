@@ -1,0 +1,3633 @@
+@media only screen and (max-width: 10000px) and (min-width: 741px) {
+  body {
+    background: gray;
+  }
+  .body {
+    background: #E5E5E5;
+    position: relative;
+    width: 90%;
+    height: 3099px;
+    left: 10%;
+  }
+  div.Intro {
+    position: relative;
+    width: 73.1523378582%;
+    height: 17.1636011617%;
+    left: 25.2639517345%;
+    right: 1.5837104072%;
+    top: 0px;
+    background: #FFFFFF;
+  }
+  div.Intro .ellipse1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1.6494845361%;
+    height: 18.22px;
+    left: 4.1237113402%;
+    top: 6.4241398759%;
+    border: 2px solid rgba(255, 180, 0, 0.8);
+    border-radius: 100%;
+  }
+  div.Intro .ellipse2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1.6494845361%;
+    height: 18.22px;
+    left: 9.0721649485%;
+    top: 90.3628501598%;
+    border: 2px solid rgba(5, 255, 0, 0.8);
+    border-radius: 100%;
+  }
+  div.Intro button {
+    position: absolute;
+    width: 15.8762886598%;
+    height: 9.5882684715%;
+    background: #FFB400;
+    border-radius: 5px;
+    left: 6.1855670103%;
+    top: 73.2336905433%;
+  }
+  div.Intro button img {
+    position: absolute;
+    left: 70.5649350649%;
+    right: 16.67%;
+    top: 43%;
+    bottom: 17.59%;
+    width: 6.9285714286%;
+    height: 20.3333333333%;
+    background: #2B2B2B;
+  }
+  div.Intro button span {
+    white-space: nowrap;
+    position: absolute;
+    width: 42.2077922078%;
+    height: 56.862745098%;
+    left: 20.7792207792%;
+    top: 31.3725490196%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1vw;
+    line-height: 117.6470588235%;
+    align-items: center;
+    text-align: center;
+    color: #2B2B2B;
+  }
+  div.Intro img {
+    position: absolute;
+    width: 33.5793814433%;
+    height: 98.30607257%;
+    left: 60.4824742268%;
+    top: 1.7127279564%;
+  }
+  div.Intro section {
+    position: absolute;
+    width: 51.5463917526%;
+    height: 25.2679075014%;
+    left: 6.1855670103%;
+    top: 19.9135175785%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.4vw;
+    line-height: 123.6%;
+    color: #2B2B2B;
+  }
+  div.Intro section span {
+    color: #FFB400;
+  }
+  div.myservices {
+    position: absolute;
+    width: 73.1523378582%;
+    height: 23.4269119071%;
+    right: 1.5837104072%;
+    left: 25.2639517345%;
+    top: 17.1636011617%;
+    background: #E5E5E5;
+  }
+  div.myservices div.service {
+    position: absolute;
+    width: 100%;
+    height: 5.5096418733%;
+    left: 0;
+    top: 9.0909090909%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.1vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2B2B2B;
+  }
+  div.myservices div.servicetext {
+    position: absolute;
+    width: 45.1546391753%;
+    height: 9.3663911846%;
+    left: 27.4226804124%;
+    top: 19.0082644628%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 140%;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.myservices div.firstrow div.sound {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 30.9917355372%;
+    left: 68.0412371134%;
+    top: 35.261707989%;
+    background: #FFFFFF;
+  }
+  div.myservices div.firstrow div.sound img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 38.064516129%;
+    top: 11.1111111111%;
+  }
+  div.myservices div.firstrow div.sound span.SoundDesign {
+    position: absolute;
+    width: 38.7096774194%;
+    height: 9.7777777778%;
+    left: 32.9032258065%;
+    top: 54.2222222222%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+    text-align: center;
+  }
+  div.myservices div.firstrow div.sound span.TextSound {
+    position: absolute;
+    width: 56.4516129032%;
+    height: 10.6666666667%;
+    left: 23.8709677419%;
+    top: 70.6666666667%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.05vw;
+    line-height: 160%;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.myservices div.firstrow div.uXdesign {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 30.9917355372%;
+    left: 34.0206185567%;
+    top: 35.261707989%;
+    background: #FFFFFF;
+  }
+  div.myservices div.firstrow div.uXdesign img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 39.0322580645%;
+    top: 12.4444444444%;
+  }
+  div.myservices div.firstrow div.uXdesign span.titleuXdesign {
+    position: absolute;
+    width: 38.7096774194%;
+    height: 9.7777777778%;
+    left: 32.9032258065%;
+    top: 54.2222222222%;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.myservices div.firstrow div.uXdesign span.TextuXdesign {
+    white-space: nowrap;
+    position: absolute;
+    width: 56.4516129032%;
+    height: 10.6666666667%;
+    left: 23.8709677419%;
+    top: 70.6666666667%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 160%;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.myservices div.firstrow div.webdevelopment {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 30.9917355372%;
+    left: 0%;
+    top: 35.261707989%;
+    background: #FFFFFF;
+  }
+  div.myservices div.firstrow div.webdevelopment img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 39.0322580645%;
+    top: 12.4444444444%;
+  }
+  div.myservices div.firstrow div.webdevelopment span.titlewebdevelopment {
+    white-space: nowrap;
+    position: absolute;
+    width: 38.7096774194%;
+    height: 9.7777777778%;
+    left: 29.0322580645%;
+    top: 54.2222222222%;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.myservices div.firstrow div.webdevelopment span.Textwebdevelopment {
+    white-space: nowrap;
+    position: absolute;
+    width: 43.2258064516%;
+    height: 10.6666666667%;
+    left: 28.3870967742%;
+    top: 70.6666666667%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.myservices div.secondrow div.advertising {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 30.9917355372%;
+    left: 68.0412371134%;
+    top: 69.0082644628%;
+    background: #FFFFFF;
+  }
+  div.myservices div.secondrow div.advertising span.titleadvertising {
+    position: absolute;
+    width: 100%;
+    height: 9.7777777778%;
+    left: 0;
+    top: 13.7777777778%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+    text-align: center;
+  }
+  div.myservices div.secondrow div.advertising span.Textadvertising {
+    position: absolute;
+    width: 83.8709677419%;
+    height: 34.6666666667%;
+    left: 8.064516129%;
+    top: 33.3333333333%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.myservices div.secondrow div.advertising a {
+    white-space: nowrap;
+    position: absolute;
+    width: 100%;
+    height: 6.2222222222%;
+    left: 0;
+    top: 81.3333333333%;
+    text-align: center;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 0.9vw;
+    line-height: 14px;
+    color: #FFB400;
+  }
+  div.myservices div.secondrow div.photography {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 30.9917355372%;
+    left: 34.0206185567%;
+    top: 69.0082644628%;
+    background: #FFFFFF;
+  }
+  div.myservices div.secondrow div.photography img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 39.0322580645%;
+    top: 12.4444444444%;
+  }
+  div.myservices div.secondrow div.photography span.titlephotography {
+    position: absolute;
+    width: 100%;
+    height: 9.7777777778%;
+    left: 0;
+    top: 56.8888888889%;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.myservices div.secondrow div.photography span.Textphotography {
+    white-space: nowrap;
+    position: absolute;
+    width: 100%;
+    height: 10.6666666667%;
+    left: 0;
+    top: 70.6666666667%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.myservices div.secondrow div.gamedesign {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 30.9917355372%;
+    left: 0%;
+    top: 69.0082644628%;
+    background: #FFFFFF;
+  }
+  div.myservices div.secondrow div.gamedesign img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 39.0322580645%;
+    top: 12.4444444444%;
+  }
+  div.myservices div.secondrow div.gamedesign span.titlegamedesign {
+    white-space: nowrap;
+    position: absolute;
+    width: 100%;
+    height: 9.7777777778%;
+    left: 0;
+    top: 54.2222222222%;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.myservices div.secondrow div.gamedesign span.Textgamedesign {
+    white-space: nowrap;
+    position: absolute;
+    width: 100%;
+    height: 10.6666666667%;
+    left: 0;
+    top: 70.6666666667%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.35vw;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.Education {
+    position: absolute;
+    width: 73.1523378582%;
+    height: 28.4285253308%;
+    left: 23.3785822021%;
+    top: 40.496934495%;
+    background: #E5E5E5;
+  }
+  div.Education div.EducationTitle {
+    position: absolute;
+    width: 100%;
+    height: 4.5402951192%;
+    left: 0;
+    top: 7.4914869467%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.4vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+    text-align: center;
+  }
+  div.Education div.Educationtext {
+    position: absolute;
+    width: 45.1546391753%;
+    height: 7.7185017026%;
+    left: 27.4226804124%;
+    top: 14.8694665153%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.Education div.UniversityofToronto {
+    position: absolute;
+    width: 100%;
+    height: 23.6095346198%;
+    left: 0%;
+    top: 28.2633371169%;
+    background: #FFFFFF;
+  }
+  div.Education div.UniversityofToronto span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.Education div.UniversityofToronto span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.Education div.UniversityofToronto span.date {
+    position: absolute;
+    width: 11.4432989691%;
+    height: 8.6538461538%;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.Education div.UniversityofToronto span.TextTitle {
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.Education div.UniversityofToronto span.Text {
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.Education div.ProgrammingCourse {
+    position: absolute;
+    width: 100%;
+    height: 23.6095346198%;
+    left: 0%;
+    top: 51.8728717367%;
+    background: #FFFFFF;
+  }
+  div.Education div.ProgrammingCourse span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.Education div.ProgrammingCourse span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.Education div.ProgrammingCourse span.date {
+    position: absolute;
+    width: 11.4432989691%;
+    height: 8.6538461538%;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.Education div.ProgrammingCourse span.TextTitle {
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.Education div.ProgrammingCourse span.Text {
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.Education div.SeniorWebDesigner {
+    position: absolute;
+    width: 100%;
+    height: 23.6095346198%;
+    left: 0%;
+    top: 74.2338251986%;
+    background: #FFFFFF;
+  }
+  div.Education div.SeniorWebDesigner span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.Education div.SeniorWebDesigner span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.Education div.SeniorWebDesigner span.date {
+    position: absolute;
+    width: 11.4432989691%;
+    height: 8.6538461538%;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.Education div.SeniorWebDesigner span.TextTitle {
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.Education div.SeniorWebDesigner span.Text {
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.WorkHistory {
+    position: absolute;
+    width: 73.1523378582%;
+    height: 28.4285253308%;
+    left: 23.3785822021%;
+    top: 68.9254598258%;
+    background: #E5E5E5;
+  }
+  div.WorkHistory span.WorkHistoryTitle {
+    position: absolute;
+    width: 19.8969072165%;
+    height: 4.5402951192%;
+    left: 42.2680412371%;
+    top: 7.4914869467%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.1vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory span.WorkHistorytext {
+    position: absolute;
+    width: 45.1546391753%;
+    height: 7.7185017026%;
+    left: 27.4226804124%;
+    top: 14.8694665153%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.WorkHistory div.LeadWebDesigner {
+    position: absolute;
+    width: 100%;
+    height: 23.6095346198%;
+    left: 0%;
+    top: 28.2633371169%;
+    background: #FFFFFF;
+  }
+  div.WorkHistory div.LeadWebDesigner span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.LeadWebDesigner span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.LeadWebDesigner span.date {
+    position: absolute;
+    width: 11.4432989691%;
+    height: 8.6538461538%;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.WorkHistory div.LeadWebDesigner span.TextTitle {
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.LeadWebDesigner span.Text {
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.WorkHistory div.JuniorWebDesigner {
+    position: absolute;
+    width: 100%;
+    height: 23.6095346198%;
+    left: 0%;
+    top: 51.8728717367%;
+    background: #FFFFFF;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.date {
+    position: absolute;
+    width: 11.4432989691%;
+    height: 8.6538461538%;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.TextTitle {
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.Text {
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.WorkHistory div.SeniorWebDesigner {
+    position: absolute;
+    width: 100%;
+    height: 23.6095346198%;
+    left: 0%;
+    top: 74.2338251986%;
+    background: #FFFFFF;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.date {
+    position: absolute;
+    width: 11.4432989691%;
+    height: 8.6538461538%;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.TextTitle {
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.Text {
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar {
+    position: absolute;
+    width: 23.0015082956%;
+    height: 42.4330429171%;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+  }
+  div.sidebar section {
+    position: absolute;
+    width: 5.2459016393%;
+    height: 1.216730038%;
+    left: 64.9180327869%;
+    top: 12.6235741445%;
+    border-radius: 50%;
+    background: #7EB942;
+    box-shadow: 0px 4px 0.6vw rgba(0, 0, 0, 0.15);
+  }
+  div.sidebar p {
+    position: absolute;
+    width: 46.8852459016%;
+    height: 1.825095057%;
+    left: 26.8852459016%;
+    top: 19.0114068441%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #767676;
+  }
+  div.sidebar h4 {
+    position: absolute;
+    width: 46.5573770492%;
+    height: 1.6730038023%;
+    left: 26.5573770492%;
+    top: 16.1977186312%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 22.25px;
+    align-items: center;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.sidebar .profile {
+    position: absolute;
+    width: 49.1803278689%;
+    height: 11.4068441065%;
+    left: 24.262295082%;
+    top: 3.8022813688%;
+  }
+  div.sidebar span.facebook {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.facebook img {
+    position: absolute;
+    left: 35%;
+    right: 27.08%;
+    top: 25%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.instagram {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 25.9016393443%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.instagram img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 25%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.twitter {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 38.6885245902%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.twitter img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 25%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.linkedin {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 51.4754098361%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.linkedin img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 20%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.ball {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 77.0491803279%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.ball img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 25%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.youtube {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 64.262295082%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.youtube img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 30%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar div.line {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 27.072243346%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar div.rectangle1 {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 28.9733840304%;
+    background: #FFB400;
+  }
+  div.sidebar div.rectangle1 span {
+    position: absolute;
+    width: 71.7391304348%;
+    height: 100%;
+    left: 10.8695652174%;
+    top: 4.1666666667%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar span.rectangle1Text {
+    position: absolute;
+    width: 6.2295081967%;
+    height: 1.825095057%;
+    left: 79.0163934426%;
+    top: 28.9733840304%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-align: right;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar div.rectangle2 {
+    position: absolute;
+    width: 29.1803278689%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 31.5589353612%;
+    background: #FFB400;
+  }
+  div.sidebar div.rectangle2 span {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 6.4102564103%;
+    top: 0%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar span.rectangle2Text {
+    position: absolute;
+    width: 6.8852459016%;
+    height: 1.825095057%;
+    left: 78.3606557377%;
+    top: 31.5589353612%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-align: right;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar div.rectangle3 {
+    position: absolute;
+    width: 27.868852459%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 34.144486692%;
+    background: #FFB400;
+  }
+  div.sidebar div.rectangle3 span {
+    position: absolute;
+    width: 87.0588235294%;
+    height: 100%;
+    left: 5.8823529412%;
+    top: 0%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar span.rectangle3Text {
+    position: absolute;
+    width: 21.3114754098%;
+    height: 1.825095057%;
+    left: 63.9344262295%;
+    top: 34.144486692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-align: right;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #7EB942;
+  }
+  div.sidebar div.rectangle4 {
+    position: absolute;
+    width: 24.5901639344%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 36.7300380228%;
+    background: #FFB400;
+  }
+  div.sidebar div.rectangle4 span {
+    position: absolute;
+    width: 84%;
+    height: 100%;
+    left: 6.6666666667%;
+    top: 0%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar span.rectangle4Text {
+    position: absolute;
+    width: 43.2786885246%;
+    height: 1.825095057%;
+    left: 41.9672131148%;
+    top: 36.7300380228%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-align: right;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar div.line1 {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 40.4562737643%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar div.Languages {
+    position: absolute;
+    width: 100%;
+    height: 15.4372623574%;
+    left: 0%;
+    top: 40.4562737643%;
+    background: #FFFFFF;
+  }
+  div.sidebar div.Languages div.title {
+    position: absolute;
+    width: 31.1475409836%;
+    height: 10.8374384236%;
+    left: 13.1147540984%;
+    top: 12.315270936%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.sidebar div.Languages div.info1 {
+    position: absolute;
+    width: 17.3770491803%;
+    height: 11.8226600985%;
+    left: 13.1147540984%;
+    top: 30.5418719212%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info1_content {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 11.8226600985%;
+    left: 72.7868852459%;
+    top: 30.5418719212%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info2 {
+    position: absolute;
+    width: 17.3770491803%;
+    height: 11.8226600985%;
+    left: 13.1147540984%;
+    top: 51.2315270936%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info2_content {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 11.8226600985%;
+    left: 72.7868852459%;
+    top: 51.2315270936%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info3 {
+    position: absolute;
+    width: 17.3770491803%;
+    height: 11.8226600985%;
+    left: 13.1147540984%;
+    top: 71.921182266%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info3_content {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 11.8226600985%;
+    left: 72.7868852459%;
+    top: 71.921182266%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.line2 {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 40.4562737643%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar div.contactInformation {
+    position: absolute;
+    width: 100%;
+    height: 22.2813688213%;
+    left: 0%;
+    top: 55.5133079848%;
+    background: #FFFFFF;
+  }
+  div.sidebar div.contactInformation div.title {
+    white-space: nowrap;
+    position: absolute;
+    width: 31.1475409836%;
+    height: 7.5085324232%;
+    left: 13.1147540984%;
+    top: 8.5324232082%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.sidebar div.contactInformation div.info1 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 5.1194539249%;
+    left: 13.1147540984%;
+    top: 32.0819112628%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info1_content {
+    position: absolute;
+    width: 40.3278688525%;
+    height: 8.1911262799%;
+    left: 50.1639344262%;
+    top: 32.0819112628%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info2 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 5.1194539249%;
+    left: 13.1147540984%;
+    top: 48.4641638225%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info2_content {
+    position: absolute;
+    width: 34.0983606557%;
+    height: 8.1911262799%;
+    left: 50.1639344262%;
+    top: 48.4641638225%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info3 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 5.1194539249%;
+    left: 13.1147540984%;
+    top: 63.4812286689%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info3_content {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 8.1911262799%;
+    left: 49.8360655738%;
+    top: 63.4812286689%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info4 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 5.1194539249%;
+    left: 13.1147540984%;
+    top: 78.156996587%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info4_content {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 8.1911262799%;
+    left: 49.8360655738%;
+    top: 78.156996587%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Skills {
+    position: absolute;
+    width: 100%;
+    height: 15.4372623574%;
+    left: 0%;
+    top: 78.0988593156%;
+    background: #FFFFFF;
+  }
+  div.sidebar div.Skills div.title {
+    white-space: nowrap;
+    position: absolute;
+    width: 31.1475409836%;
+    height: 10.8374384236%;
+    left: 13.1147540984%;
+    top: 12.315270936%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.sidebar div.Skills div.info1 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 7.3891625616%;
+    left: 13.1147540984%;
+    top: 32.5123152709%;
+  }
+  div.sidebar div.Skills div.info1 img {
+    width: 100%;
+    height: 100%;
+  }
+  div.sidebar div.Skills div.info1_content {
+    position: absolute;
+    width: 51.1475409836%;
+    height: 11.8226600985%;
+    left: 22.9508196721%;
+    top: 32.5123152709%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Skills div.info2 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 7.3891625616%;
+    left: 13.1147540984%;
+    top: 46.7980295567%;
+  }
+  div.sidebar div.Skills div.info2 img {
+    width: 100%;
+    height: 100%;
+  }
+  div.sidebar div.Skills div.info2_content {
+    position: absolute;
+    width: 41.6393442623%;
+    height: 11.8226600985%;
+    left: 22.9508196721%;
+    top: 46.7980295567%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Skills div.info3 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 7.3891625616%;
+    left: 13.1147540984%;
+    top: 61.0837438424%;
+  }
+  div.sidebar div.Skills div.info3 img {
+    width: 100%;
+    height: 100%;
+  }
+  div.sidebar div.Skills div.info3_content {
+    position: absolute;
+    width: 51.1475409836%;
+    height: 11.8226600985%;
+    left: 22.9508196721%;
+    top: 61.0837438424%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Skills div.info4 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 7.3891625616%;
+    left: 13.1147540984%;
+    top: 75.3694581281%;
+  }
+  div.sidebar div.Skills div.info4 img {
+    width: 100%;
+    height: 100%;
+  }
+  div.sidebar div.Skills div.info4_content {
+    position: absolute;
+    width: 35.737704918%;
+    height: 11.8226600985%;
+    left: 22.9508196721%;
+    top: 75.3694581281%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.line3 {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 55.5133079848%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar div.line4 {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 77.566539924%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar button.Download {
+    width: 72.131147541%;
+    height: 3.0418250951%;
+    position: absolute;
+    left: 13.1147540984%;
+    right: 0%;
+    top: 95.969581749%;
+    bottom: 0%;
+    background: #FFB400;
+  }
+  div.sidebar button.Download span {
+    white-space: nowrap;
+    position: absolute;
+    left: 25%;
+    right: 32.73%;
+    top: 25%;
+    bottom: 26.43%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.01vw;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #2B2B2B;
+  }
+}
+@media only screen and (max-width: 740px) {
+  body {
+    background: gray;
+  }
+  .body {
+    background: #E5E5E5;
+    position: relative;
+    width: 100%;
+    height: 3099px;
+    left: 0%;
+  }
+  div.Intro {
+    position: relative;
+    width: 100%;
+    height: 8.5818005808%;
+    left: 0;
+    top: 0px;
+    background: #FFFFFF;
+  }
+  div.Intro .ellipse1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1.6494845361%;
+    height: 3.4254559128%;
+    left: 4.1237113402%;
+    top: 6.4241398759%;
+    border: 2px solid rgba(255, 180, 0, 0.8);
+    border-radius: 100%;
+  }
+  div.Intro .ellipse2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1.6494845361%;
+    height: 3.4254559128%;
+    left: 9.0721649485%;
+    top: 90.3628501598%;
+    border: 2px solid rgba(5, 255, 0, 0.8);
+    border-radius: 100%;
+  }
+  div.Intro button {
+    position: absolute;
+    width: 15.8762886598%;
+    height: 9.5882684715%;
+    background: #FFB400;
+    border-radius: 5px;
+    left: 6.1855670103%;
+    top: 73.2336905433%;
+  }
+  div.Intro button img {
+    position: absolute;
+    left: 70.5649350649%;
+    right: 16.67%;
+    top: 43%;
+    bottom: 17.59%;
+    width: 6.9285714286%;
+    height: 20.3333333333%;
+    background: #2B2B2B;
+  }
+  div.Intro button span {
+    white-space: nowrap;
+    position: absolute;
+    width: 42.2077922078%;
+    height: 56.862745098%;
+    left: 20.7792207792%;
+    top: 31.3725490196%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 117.6470588235%;
+    align-items: center;
+    text-align: center;
+    color: #2B2B2B;
+  }
+  div.Intro img {
+    position: absolute;
+    width: 33.5793814433%;
+    height: 98.30607257%;
+    left: 60.4824742268%;
+    top: 1.7127279564%;
+  }
+  div.Intro section {
+    position: absolute;
+    width: 51.5463917526%;
+    height: 25.2679075014%;
+    left: 6.1855670103%;
+    top: 19.9135175785%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 4vw;
+    line-height: 123.6%;
+    color: #2B2B2B;
+  }
+  div.Intro section span {
+    color: #FFB400;
+  }
+  div.myservices {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 11.7134559535%;
+    left: 0;
+    background: #E5E5E5;
+  }
+  div.myservices div.service {
+    display: block;
+    width: 100%;
+    position: relative;
+    width: 100%;
+    left: 0;
+    padding-top: 9.0909090909%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.8vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2B2B2B;
+  }
+  div.myservices div.servicetext {
+    display: block;
+    position: relative;
+    width: 45.1546391753%;
+    padding-top: 4.5454545455%;
+    left: 27.4226804124%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 140%;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.myservices div.firstrow {
+    width: 100%;
+    height: 27.8925619835%;
+    display: block;
+  }
+  div.myservices div.firstrow div.sound {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 21.694214876%;
+    left: 68.0412371134%;
+    margin-top: 5%;
+    background: #FFFFFF;
+  }
+  div.myservices div.firstrow div.sound img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 38.064516129%;
+    top: 11.1111111111%;
+  }
+  div.myservices div.firstrow div.sound span.SoundDesign {
+    position: absolute;
+    width: 38.7096774194%;
+    height: 9.7777777778%;
+    left: 32.9032258065%;
+    top: 54.2222222222%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+    text-align: center;
+  }
+  div.myservices div.firstrow div.sound span.TextSound {
+    position: absolute;
+    width: 56.4516129032%;
+    height: 10.6666666667%;
+    left: 23.8709677419%;
+    top: 70.6666666667%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.05vw;
+    line-height: 160%;
+    /* identical to box height, or 160% */
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.myservices div.firstrow div.uXdesign {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 21.694214876%;
+    left: 34.0206185567%;
+    margin-top: 5%;
+    background: #FFFFFF;
+  }
+  div.myservices div.firstrow div.uXdesign img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 39.0322580645%;
+    top: 12.4444444444%;
+  }
+  div.myservices div.firstrow div.uXdesign span.titleuXdesign {
+    position: absolute;
+    width: 38.7096774194%;
+    height: 9.7777777778%;
+    left: 32.9032258065%;
+    top: 54.2222222222%;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-align: center;
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.myservices div.firstrow div.uXdesign span.TextuXdesign {
+    white-space: nowrap;
+    position: absolute;
+    width: 56.4516129032%;
+    height: 10.6666666667%;
+    left: 23.8709677419%;
+    top: 70.6666666667%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 160%;
+    /* identical to box height, or 160% */
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.myservices div.firstrow div.webdevelopment {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 21.694214876%;
+    left: 0%;
+    margin-top: 5%;
+    background: #FFFFFF;
+  }
+  div.myservices div.firstrow div.webdevelopment img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 39.0322580645%;
+    top: 12.4444444444%;
+  }
+  div.myservices div.firstrow div.webdevelopment span.titlewebdevelopment {
+    white-space: nowrap;
+    position: absolute;
+    width: 38.7096774194%;
+    height: 9.7777777778%;
+    left: 29.0322580645%;
+    top: 54.2222222222%;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.myservices div.firstrow div.webdevelopment span.Textwebdevelopment {
+    white-space: nowrap;
+    position: absolute;
+    width: 43.2258064516%;
+    height: 10.6666666667%;
+    left: 28.3870967742%;
+    top: 70.6666666667%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.myservices div.secondrow {
+    width: 100%;
+    display: block;
+  }
+  div.myservices div.secondrow div.advertising {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 21.694214876%;
+    left: 68.0412371134%;
+    margin-top: 5%;
+    background: #FFFFFF;
+  }
+  div.myservices div.secondrow div.advertising span.titleadvertising {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 9.7777777778%;
+    left: 0;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+    text-align: center;
+  }
+  div.myservices div.secondrow div.advertising span.Textadvertising {
+    clear: both;
+    display: block;
+    position: relative;
+    width: 83.8709677419%;
+    left: 8.064516129%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.myservices div.secondrow div.advertising a {
+    /* ORDER NOW */
+    display: block;
+    white-space: nowrap;
+    position: relative;
+    width: 100%;
+    height: 6.2222222222%;
+    left: 0;
+    text-align: center;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 0.9vw;
+    line-height: 14px;
+    /* identical to box height */
+    /* Yellow */
+    color: #FFB400;
+  }
+  div.myservices div.secondrow div.photography {
+    position: absolute;
+    width: 31.9587628866%;
+    height: 21.694214876%;
+    left: 34.0206185567%;
+    background: #FFFFFF;
+    margin-top: 5%;
+  }
+  div.myservices div.secondrow div.photography img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 39.0322580645%;
+    top: 12.4444444444%;
+  }
+  div.myservices div.secondrow div.photography span.titlephotography {
+    position: absolute;
+    width: 100%;
+    height: 9.7777777778%;
+    left: 0;
+    top: 56.8888888889%;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.myservices div.secondrow div.photography span.Textphotography {
+    white-space: nowrap;
+    position: absolute;
+    width: 100%;
+    height: 10.6666666667%;
+    left: 0;
+    top: 70.6666666667%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.myservices div.secondrow div.gamedesign {
+    margin-top: 5%;
+    position: absolute;
+    width: 31.9587628866%;
+    height: 21.694214876%;
+    left: 0%;
+    background: #FFFFFF;
+  }
+  div.myservices div.secondrow div.gamedesign img {
+    position: absolute;
+    width: 23.8709677419%;
+    height: 32.8888888889%;
+    left: 39.0322580645%;
+    top: 12.4444444444%;
+  }
+  div.myservices div.secondrow div.gamedesign span.titlegamedesign {
+    white-space: nowrap;
+    position: absolute;
+    width: 100%;
+    height: 9.7777777778%;
+    left: 0;
+    top: 54.2222222222%;
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.myservices div.secondrow div.gamedesign span.Textgamedesign {
+    white-space: nowrap;
+    position: absolute;
+    width: 100%;
+    height: 10.6666666667%;
+    left: 0;
+    top: 70.6666666667%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.35vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.Education {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 17.0571151985%;
+    left: 0;
+    background: #E5E5E5;
+  }
+  div.Education div.EducationTitle {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 4.5402951192%;
+    margin-top: 5%;
+    left: 0;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.4vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+    text-align: center;
+  }
+  div.Education div.Educationtext {
+    display: block;
+    position: relative;
+    width: 45.1546391753%;
+    left: 27.4226804124%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 140%;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.Education div.UniversityofToronto {
+    margin-top: 5%;
+    position: relative;
+    width: 100%;
+    height: 25.9704880817%;
+    left: 0%;
+    background: #FFFFFF;
+  }
+  div.Education div.UniversityofToronto span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.Education div.UniversityofToronto span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.Education div.UniversityofToronto span.date {
+    position: absolute;
+    height: auto;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    /* Jan 1016 - Dec 2021 */
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.Education div.UniversityofToronto span.TextTitle {
+    /* Certificate of web training */
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    /* H4 - 18px */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    /* or 22px */
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.Education div.UniversityofToronto span.Text {
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    /* or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.Education div.ProgrammingCourse {
+    position: relative;
+    width: 100%;
+    height: 25.9704880817%;
+    left: 0%;
+    background: #FFFFFF;
+  }
+  div.Education div.ProgrammingCourse span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.Education div.ProgrammingCourse span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.Education div.ProgrammingCourse span.date {
+    position: absolute;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    /* Jan 1016 - Dec 2021 */
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.Education div.ProgrammingCourse span.TextTitle {
+    /* Certificate of web training */
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    /* H4 - 18px */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    /* or 22px */
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.Education div.ProgrammingCourse span.Text {
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    /* or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.Education div.SeniorWebDesigner {
+    position: relative;
+    width: 100%;
+    height: 25.9704880817%;
+    left: 0%;
+    background: #FFFFFF;
+  }
+  div.Education div.SeniorWebDesigner span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.Education div.SeniorWebDesigner span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.Education div.SeniorWebDesigner span.date {
+    position: absolute;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    /* Jan 1016 - Dec 2021 */
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.Education div.SeniorWebDesigner span.TextTitle {
+    /* Certificate of web training */
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    /* H4 - 18px */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    /* or 22px */
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.Education div.SeniorWebDesigner span.Text {
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    /* or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.WorkHistory {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 17.0571151985%;
+    left: 0;
+    background: #E5E5E5;
+  }
+  div.WorkHistory span.WorkHistoryTitle {
+    position: relative;
+    display: block;
+    width: 19.8969072165%;
+    left: 42.2680412371%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory span.WorkHistorytext {
+    position: relative;
+    display: block;
+    margin-top: 5%;
+    width: 45.1546391753%;
+    height: 7.7185017026%;
+    left: 27.4226804124%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.WorkHistory div.LeadWebDesigner {
+    margin-top: 6%;
+    position: relative;
+    width: 100%;
+    height: 23.6095346198%;
+    left: 0%;
+    background: #FFFFFF;
+  }
+  div.WorkHistory div.LeadWebDesigner span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.LeadWebDesigner span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.LeadWebDesigner span.date {
+    position: absolute;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    /* Jan 1016 - Dec 2021 */
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.WorkHistory div.LeadWebDesigner span.TextTitle {
+    /* Certificate of web training */
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    /* H4 - 18px */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    /* or 22px */
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.LeadWebDesigner span.Text {
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    /* or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.WorkHistory div.JuniorWebDesigner {
+    position: relative;
+    width: 100%;
+    height: 23.6095346198%;
+    left: 0%;
+    background: #FFFFFF;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.date {
+    position: absolute;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    /* Jan 1016 - Dec 2021 */
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.TextTitle {
+    /* Certificate of web training */
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    /* H4 - 18px */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    /* or 22px */
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.JuniorWebDesigner span.Text {
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    /* or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.WorkHistory div.SeniorWebDesigner {
+    position: relative;
+    width: 100%;
+    height: 23.6095346198%;
+    left: 0%;
+    background: #FFFFFF;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.title {
+    position: absolute;
+    width: 18.9690721649%;
+    height: 10.5769230769%;
+    left: 3.8144329897%;
+    top: 24.5192307692%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.student {
+    position: absolute;
+    width: 5.8762886598%;
+    height: 11.5384615385%;
+    left: 3.8144329897%;
+    top: 47.1153846154%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.date {
+    position: absolute;
+    left: 11.8556701031%;
+    top: 48.5576923077%;
+    background: #FFB400;
+    border-radius: 1px;
+    /* Jan 1016 - Dec 2021 */
+    text-align: center;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6vw;
+    line-height: 18px;
+    color: #FFFFFF;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.TextTitle {
+    /* Certificate of web training */
+    position: absolute;
+    width: 24.1237113402%;
+    height: 10.5769230769%;
+    left: 41.7525773196%;
+    top: 22.5961538462%;
+    /* H4 - 18px */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 123.6%;
+    /* or 22px */
+    text-transform: capitalize;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.WorkHistory div.SeniorWebDesigner span.Text {
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dapibus nibh ut faucibus nunc, egestas id amet porttitor. Pulvinar quisque sed amet, nulla nunc. Eleifend sodales posuere fusce tempus etiam et pellentesque. Molestie risus enim neque eget dui. */
+    position: absolute;
+    width: 55.2577319588%;
+    height: 48.0769230769%;
+    left: 41.7525773196%;
+    top: 46.6346153846%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 24px;
+    /* or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.sidebar {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 42.4330429171%;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+  }
+  div.sidebar section {
+    position: absolute;
+    width: 5.2459016393%;
+    height: 1.216730038%;
+    left: 64.9180327869%;
+    top: 12.6235741445%;
+    border-radius: 50%;
+    background: #7EB942;
+    box-shadow: 0px 4px 0.6vw rgba(0, 0, 0, 0.15);
+  }
+  div.sidebar p {
+    position: absolute;
+    width: 46.8852459016%;
+    height: 1.825095057%;
+    left: 26.8852459016%;
+    top: 19.0114068441%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #767676;
+    text-align: center;
+  }
+  div.sidebar h4 {
+    position: absolute;
+    width: 46.5573770492%;
+    height: 1.6730038023%;
+    left: 26.5573770492%;
+    top: 16.1977186312%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5vw;
+    line-height: 22.25px;
+    align-items: center;
+    text-transform: capitalize;
+    color: #2B2B2B;
+    text-align: center;
+  }
+  div.sidebar .profile {
+    position: absolute;
+    width: 49.1803278689%;
+    height: 11.4068441065%;
+    left: 24.262295082%;
+    top: 3.8022813688%;
+  }
+  div.sidebar span.facebook {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.facebook img {
+    position: absolute;
+    left: 35%;
+    right: 27.08%;
+    top: 25%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.instagram {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 25.9016393443%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.instagram img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 25%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.twitter {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 38.6885245902%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.twitter img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 25%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.linkedin {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 51.4754098361%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.linkedin img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 20%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.ball {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 77.0491803279%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.ball img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 25%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar span.youtube {
+    border-radius: 50%;
+    position: absolute;
+    width: 7.868852459%;
+    height: 1.825095057%;
+    left: 64.262295082%;
+    top: 23.3460076046%;
+    background: #FFB400;
+  }
+  div.sidebar span.youtube img {
+    position: absolute;
+    left: 30%;
+    right: 27.08%;
+    top: 30%;
+    bottom: 8.33%;
+    width: 50%;
+    height: 50%;
+  }
+  div.sidebar div.line {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 27.072243346%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar div.rectangle1 {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 28.9733840304%;
+    /* Yellow */
+    background: #FFB400;
+  }
+  div.sidebar div.rectangle1 span {
+    position: absolute;
+    width: 71.7391304348%;
+    height: 100%;
+    left: 10.8695652174%;
+    top: 4.1666666667%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.sidebar span.rectangle1Text {
+    position: absolute;
+    width: 6.2295081967%;
+    height: 1.825095057%;
+    left: 79.0163934426%;
+    top: 28.9733840304%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vw;
+    line-height: 24px;
+    text-align: right;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar div.rectangle2 {
+    position: absolute;
+    width: 29.1803278689%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 31.5589353612%;
+    background: #FFB400;
+  }
+  div.sidebar div.rectangle2 span {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 6.4102564103%;
+    top: 0%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar span.rectangle2Text {
+    position: absolute;
+    width: 6.8852459016%;
+    height: 1.825095057%;
+    left: 78.3606557377%;
+    top: 31.5589353612%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-align: right;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Black */
+    color: #2B2B2B;
+  }
+  div.sidebar div.rectangle3 {
+    position: absolute;
+    width: 27.868852459%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 34.144486692%;
+    background: #FFB400;
+  }
+  div.sidebar div.rectangle3 span {
+    position: absolute;
+    width: 87.0588235294%;
+    height: 100%;
+    left: 5.8823529412%;
+    top: 0%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar span.rectangle3Text {
+    /* Available */
+    position: absolute;
+    width: 21.3114754098%;
+    height: 1.825095057%;
+    left: 63.9344262295%;
+    top: 34.144486692%;
+    /* Paragraph Progress - 15 */
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-align: right;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Available */
+    color: #7EB942;
+  }
+  div.sidebar div.rectangle4 {
+    position: absolute;
+    width: 24.5901639344%;
+    height: 1.825095057%;
+    left: 13.1147540984%;
+    top: 36.7300380228%;
+    background: #FFB400;
+  }
+  div.sidebar div.rectangle4 span {
+    position: absolute;
+    width: 84%;
+    height: 100%;
+    left: 6.6666666667%;
+    top: 0%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar span.rectangle4Text {
+    position: absolute;
+    width: 43.2786885246%;
+    height: 1.825095057%;
+    left: 41.9672131148%;
+    top: 36.7300380228%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vw;
+    line-height: 24px;
+    text-align: right;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #2B2B2B;
+  }
+  div.sidebar div.line1 {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 40.4562737643%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar div.Languages {
+    position: absolute;
+    width: 100%;
+    height: 15.4372623574%;
+    left: 0%;
+    top: 40.4562737643%;
+    background: #FFFFFF;
+  }
+  div.sidebar div.Languages div.title {
+    position: absolute;
+    width: 31.1475409836%;
+    height: 10.8374384236%;
+    left: 13.1147540984%;
+    top: 12.315270936%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.sidebar div.Languages div.info1 {
+    position: absolute;
+    width: 17.3770491803%;
+    height: 11.8226600985%;
+    left: 13.1147540984%;
+    top: 30.5418719212%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info1_content {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 11.8226600985%;
+    left: 72.7868852459%;
+    top: 30.5418719212%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info2 {
+    position: absolute;
+    width: 17.3770491803%;
+    height: 11.8226600985%;
+    left: 13.1147540984%;
+    top: 51.2315270936%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info2_content {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 11.8226600985%;
+    left: 72.7868852459%;
+    top: 51.2315270936%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info3 {
+    position: absolute;
+    width: 17.3770491803%;
+    height: 11.8226600985%;
+    left: 13.1147540984%;
+    top: 71.921182266%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Languages div.info3_content {
+    position: absolute;
+    width: 15.0819672131%;
+    height: 11.8226600985%;
+    left: 72.7868852459%;
+    top: 71.921182266%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.line2 {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 40.4562737643%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar div.contactInformation {
+    position: absolute;
+    width: 100%;
+    height: 22.2813688213%;
+    left: 0%;
+    top: 55.5133079848%;
+    background: #FFFFFF;
+  }
+  div.sidebar div.contactInformation div.title {
+    white-space: nowrap;
+    position: absolute;
+    width: 31.1475409836%;
+    height: 7.5085324232%;
+    left: 13.1147540984%;
+    top: 8.5324232082%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.sidebar div.contactInformation div.info1 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 5.1194539249%;
+    left: 13.1147540984%;
+    top: 32.0819112628%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info1_content {
+    /* test@gmail.com */
+    position: absolute;
+    width: 40.3278688525%;
+    height: 8.1911262799%;
+    left: 50.1639344262%;
+    top: 32.0819112628%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info2 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 5.1194539249%;
+    left: 13.1147540984%;
+    top: 48.4641638225%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info2_content {
+    /* 091255550121 */
+    position: absolute;
+    width: 34.0983606557%;
+    height: 8.1911262799%;
+    left: 50.1639344262%;
+    top: 48.4641638225%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info3 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 5.1194539249%;
+    left: 13.1147540984%;
+    top: 63.4812286689%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info3_content {
+    /* @test */
+    position: absolute;
+    width: 15.0819672131%;
+    height: 8.1911262799%;
+    left: 49.8360655738%;
+    top: 63.4812286689%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info4 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 5.1194539249%;
+    left: 13.1147540984%;
+    top: 78.156996587%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.sidebar div.contactInformation div.info4_content {
+    /* @test */
+    position: absolute;
+    width: 15.0819672131%;
+    height: 8.1911262799%;
+    left: 49.8360655738%;
+    top: 78.156996587%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    /* Paragraph Font */
+    color: #767676;
+  }
+  div.sidebar div.Skills {
+    position: absolute;
+    width: 100%;
+    height: 15.4372623574%;
+    left: 0%;
+    top: 78.0988593156%;
+    background: #FFFFFF;
+  }
+  div.sidebar div.Skills div.title {
+    white-space: nowrap;
+    position: absolute;
+    width: 31.1475409836%;
+    height: 10.8374384236%;
+    left: 13.1147540984%;
+    top: 12.315270936%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3vw;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+  }
+  div.sidebar div.Skills div.info1 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 7.3891625616%;
+    left: 13.1147540984%;
+    top: 32.5123152709%;
+  }
+  div.sidebar div.Skills div.info1 img {
+    width: 100%;
+    height: 100%;
+  }
+  div.sidebar div.Skills div.info1_content {
+    position: absolute;
+    width: 51.1475409836%;
+    height: 11.8226600985%;
+    left: 22.9508196721%;
+    top: 32.5123152709%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Skills div.info2 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 7.3891625616%;
+    left: 13.1147540984%;
+    top: 46.7980295567%;
+  }
+  div.sidebar div.Skills div.info2 img {
+    width: 100%;
+    height: 100%;
+  }
+  div.sidebar div.Skills div.info2_content {
+    position: absolute;
+    width: 41.6393442623%;
+    height: 11.8226600985%;
+    left: 22.9508196721%;
+    top: 46.7980295567%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Skills div.info3 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 7.3891625616%;
+    left: 13.1147540984%;
+    top: 61.0837438424%;
+  }
+  div.sidebar div.Skills div.info3 img {
+    width: 100%;
+    height: 100%;
+  }
+  div.sidebar div.Skills div.info3_content {
+    position: absolute;
+    width: 51.1475409836%;
+    height: 11.8226600985%;
+    left: 22.9508196721%;
+    top: 61.0837438424%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.Skills div.info4 {
+    position: absolute;
+    width: 4.9180327869%;
+    height: 7.3891625616%;
+    left: 13.1147540984%;
+    top: 75.3694581281%;
+  }
+  div.sidebar div.Skills div.info4 img {
+    width: 100%;
+    height: 100%;
+  }
+  div.sidebar div.Skills div.info4_content {
+    position: absolute;
+    width: 35.737704918%;
+    height: 11.8226600985%;
+    left: 22.9508196721%;
+    top: 75.3694581281%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: "calt" off, "kern" off;
+    color: #767676;
+  }
+  div.sidebar div.line3 {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 55.5133079848%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar div.line4 {
+    position: absolute;
+    width: 72.131147541%;
+    height: 0%;
+    left: 13.1147540984%;
+    top: 77.566539924%;
+    border: 1.5px solid #F0F0F6;
+  }
+  div.sidebar button.Download {
+    /* Rectangle 24 */
+    width: 72.131147541%;
+    height: 3.0418250951%;
+    position: absolute;
+    left: 13.1147540984%;
+    right: 0%;
+    top: 95.969581749%;
+    bottom: 0%;
+    background: #FFB400;
+  }
+  div.sidebar button.Download span {
+    /* Download cv */
+    white-space: nowrap;
+    position: absolute;
+    left: 25%;
+    right: 32.73%;
+    top: 25%;
+    bottom: 26.43%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2vw;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #2B2B2B;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
